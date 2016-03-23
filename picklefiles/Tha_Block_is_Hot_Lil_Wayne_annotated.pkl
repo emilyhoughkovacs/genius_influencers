@@ -1,0 +1,55 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Tha Block is Hot'
+p4
+sS'id'
+p5
+I5033
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Lil Wayne'
+p9
+sS'title'
+p10
+S'Tha Block is Hot'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I1819
+sg8
+VB.G.
+p15
+sa(dp16
+g5
+I38
+sg8
+VJuvenile
+p17
+sasS'producers'
+p18
+(lp19
+(dp20
+g5
+I146
+sg8
+VMannie Fresh
+p21
+sasS'references'
+p22
+(dp23
+sS'artist_id'
+p24
+I4
+sg5
+I28749
+s.

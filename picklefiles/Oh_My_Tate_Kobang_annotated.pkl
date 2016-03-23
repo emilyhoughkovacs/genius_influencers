@@ -1,0 +1,54 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+S'song'
+p3
+(lp4
+(dp5
+S'title'
+p6
+VBank Rolls Remix
+p7
+sS'id'
+p8
+S'2368510'
+p9
+sS'artist'
+p10
+VTate Kobang
+p11
+sassS'title'
+p12
+S'Oh My'
+p13
+sS'artist'
+p14
+S'Tate Kobang'
+p15
+sS'producers'
+p16
+(lp17
+(dp18
+S'id'
+p19
+I34340
+sg14
+VDa Honorable C.N.O.T.E.
+p20
+sasS'references'
+p21
+(dp22
+S'song_unannotated'
+p23
+(lp24
+(dp25
+g19
+S'2426159'
+p26
+sassS'artist_id'
+p27
+I606782
+sg19
+I2426159
+s.

@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Next Friday (Original Motion Picture Soundtrack) '
+p4
+sS'id'
+p5
+I36448
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Aaliyah'
+p9
+sS'title'
+p10
+S"I Don't Wanna"
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I54401
+sg8
+VDonnie Scantz
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I1557
+sg5
+I79516
+s.

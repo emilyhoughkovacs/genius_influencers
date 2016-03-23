@@ -1,0 +1,95 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'SremmLife'
+p4
+sS'id'
+p5
+I116274
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'423398'
+p11
+sa(dp12
+g5
+S'507478'
+p13
+sasS'artist'
+p14
+(lp15
+(dp16
+g3
+VRae Sremmurd
+p17
+sg5
+S'177756'
+p18
+sa(dp19
+g3
+VNicki Minaj
+p20
+sg5
+S'92'
+p21
+sa(dp22
+g3
+VYoung Thug
+p23
+sg5
+S'20503'
+p24
+sassg14
+S'Rae Sremmurd'
+p25
+sS'title'
+p26
+S'Throw Sum Mo'
+p27
+sS'featured_artists'
+p28
+(lp29
+(dp30
+g5
+I20503
+sg14
+VYoung Thug
+p31
+sa(dp32
+g5
+I92
+sg14
+VNicki Minaj
+p33
+sasS'producers'
+p34
+(lp35
+(dp36
+g5
+I29978
+sg14
+VMike WiLL Made It
+p37
+sa(dp38
+g5
+I13185
+sg14
+VSoundz
+p39
+sasS'references'
+p40
+(dp41
+sS'artist_id'
+p42
+I177756
+sg5
+I602900
+s.

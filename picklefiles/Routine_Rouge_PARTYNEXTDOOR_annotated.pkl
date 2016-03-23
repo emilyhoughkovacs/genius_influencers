@@ -1,0 +1,54 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+S'artist'
+p3
+(lp4
+(dp5
+S'name'
+p6
+VTy Dolla $ign
+p7
+sS'id'
+p8
+S'25005'
+p9
+sa(dp10
+g6
+VRich The Kid
+p11
+sg8
+S'65109'
+p12
+sassg3
+S'PARTYNEXTDOOR'
+p13
+sS'title'
+p14
+S'Routine Rouge'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g8
+I65109
+sg3
+VRich The Kid
+p19
+sa(dp20
+g8
+I25005
+sg3
+VTy Dolla $ign
+p21
+sasS'references'
+p22
+(dp23
+sS'artist_id'
+p24
+I47131
+sg8
+I2322020
+s.

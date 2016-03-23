@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Streetz Calling'
+p4
+sS'id'
+p5
+I13088
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Future'
+p9
+sS'title'
+p10
+S'Same Damn Time'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I27938
+sg8
+VSonny Digital
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I2197
+sg5
+I69295
+s.

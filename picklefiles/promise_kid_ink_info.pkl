@@ -1,0 +1,141 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Summer In The Winter'
+p4
+sS'id'
+p5
+I140468
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VSummer In The Winter
+p10
+sg5
+S'140468'
+p11
+sassS'title'
+p12
+S'Promise'
+p13
+sS'artist'
+p14
+S'Kid Ink'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I216609
+sg14
+VFetty Wap
+p19
+sasS'producers'
+p20
+(lp21
+(dp22
+g5
+I29780
+sg14
+VDJ Mustard
+p23
+sasS'references'
+p24
+(dp25
+g1
+(lp26
+(dp27
+g3
+VThe King of Crunk & BME Recordings Present Lil Scrappy & Trillville
+p28
+sg5
+S'10137'
+p29
+sasS'song'
+p30
+(lp31
+(dp32
+S'title'
+p33
+VCashin Out
+p34
+sS'id'
+p35
+S'66225'
+p36
+sS'artist'
+p37
+VCa$h Out
+p38
+sa(dp39
+g33
+VMy Way
+p40
+sg35
+S'653082'
+p41
+sg37
+VFetty Wap
+p42
+sasS'other'
+p43
+(lp44
+(dp45
+g5
+S'583442'
+p46
+sg12
+VKill Bill- Opening Scene
+p47
+sasg14
+(lp48
+(dp49
+g3
+VCa$h Out
+p50
+sg5
+S'17560'
+p51
+sa(dp52
+g3
+VDJ Mustard
+p53
+sg5
+S'29780'
+p54
+sa(dp55
+g3
+VTrillville
+p56
+sg5
+S'134'
+p57
+sassS'artist_id'
+p58
+I1631
+sS'_id'
+p59
+ccopy_reg
+_reconstructor
+p60
+(cbson.objectid
+ObjectId
+p61
+c__builtin__
+object
+p62
+Ntp63
+Rp64
+S'V\xef8\xdd\x89WB\x13\x0b\xa2\x96\xf9'
+p65
+bsg5
+I2396122
+s.

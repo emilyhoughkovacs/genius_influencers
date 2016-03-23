@@ -1,0 +1,61 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'All Eyez on Me'
+p4
+sS'id'
+p5
+I38
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'2Pac'
+p9
+sS'title'
+p10
+S"Picture Me Rollin'"
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I551156
+sg8
+VDanny Boy Steward
+p15
+sa(dp16
+g5
+I2572
+sg8
+VCPO
+p17
+sa(dp18
+g5
+I2571
+sg8
+VBig Syke
+p19
+sasS'producers'
+p20
+(lp21
+(dp22
+g5
+I8976
+sg8
+VJohnny J
+p23
+sasS'references'
+p24
+(dp25
+sS'artist_id'
+p26
+I59
+sg5
+I698
+s.

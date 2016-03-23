@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Flockaveli'
+p4
+sS'id'
+p5
+I10386
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Waka Flocka Flame'
+p9
+sS'title'
+p10
+S'Snakes in the Grass'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I1119
+sg8
+VCartier Kitten
+p15
+sasS'producers'
+p16
+(lp17
+(dp18
+g5
+I2268
+sg8
+VLex Luger
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I257
+sg5
+I2373
+s.

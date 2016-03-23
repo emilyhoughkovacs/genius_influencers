@@ -1,0 +1,64 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Beach House EP'
+p4
+sS'id'
+p5
+I74606
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VThe Weeknd
+p11
+sg5
+S'2358'
+p12
+sassg8
+S'Ty Dolla $ign'
+p13
+sS'title'
+p14
+S'Or Nah'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I29780
+sg8
+VDJ Mustard
+p19
+sa(dp20
+g5
+I310
+sg8
+VWiz Khalifa
+p21
+sasS'producers'
+p22
+(lp23
+(dp24
+g5
+I29780
+sg8
+VDJ Mustard
+p25
+sasS'references'
+p26
+(dp27
+sS'artist_id'
+p28
+I25005
+sg5
+I332635
+s.

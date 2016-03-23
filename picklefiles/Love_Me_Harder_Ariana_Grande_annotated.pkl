@@ -1,0 +1,65 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'My Everything'
+p4
+sS'id'
+p5
+I107154
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VThe Weeknd
+p11
+sg5
+S'2358'
+p12
+sa(dp13
+g3
+VMax Martin
+p14
+sg5
+S'27835'
+p15
+sassg8
+S'Ariana Grande'
+p16
+sS'title'
+p17
+S'Love Me Harder'
+p18
+sS'featured_artists'
+p19
+(lp20
+(dp21
+g5
+I2358
+sg8
+VThe Weeknd
+p22
+sasS'producers'
+p23
+(lp24
+(dp25
+g5
+I27835
+sg8
+VMax Martin
+p26
+sasS'references'
+p27
+(dp28
+sS'artist_id'
+p29
+I26507
+sg5
+I501510
+s.

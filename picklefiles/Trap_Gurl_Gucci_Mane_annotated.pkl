@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Hard to Kill'
+p4
+sS'id'
+p5
+I3516
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Gucci Mane'
+p9
+sS'title'
+p10
+S'Trap Gurl'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I5996
+sg8
+VGangsta Boo
+p15
+sasS'producers'
+p16
+(lp17
+(dp18
+g5
+I27822
+sg8
+VZaytoven
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I13
+sg5
+I21929
+s.

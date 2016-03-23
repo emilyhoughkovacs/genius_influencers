@@ -1,0 +1,47 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'2014 Forest Hills Drive'
+p4
+sS'id'
+p5
+I115138
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VThe Game
+p11
+sg5
+S'42'
+p12
+sassg8
+S'J. Cole'
+p13
+sS'title'
+p14
+S'Hello'
+p15
+sS'references'
+p16
+(dp17
+S'song_unannotated'
+p18
+(lp19
+(dp20
+g5
+S'1741'
+p21
+sassS'artist_id'
+p22
+I69
+sg5
+I599433
+s.

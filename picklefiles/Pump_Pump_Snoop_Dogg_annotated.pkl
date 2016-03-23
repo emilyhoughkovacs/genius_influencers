@@ -1,0 +1,94 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Doggystyle'
+p4
+sS'id'
+p5
+I9337
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'2475'
+p11
+sa(dp12
+g5
+S'587392'
+p13
+sasS'artist'
+p14
+(lp15
+(dp16
+g3
+VNaughty By Nature
+p17
+sg5
+S'308'
+p18
+sassg14
+S'Snoop Dogg'
+p19
+sS'title'
+p20
+S'Pump Pump'
+p21
+sS'featured_artists'
+p22
+(lp23
+(dp24
+g5
+I10489
+sg14
+VMalik (Lil Hershey Loc)
+p25
+sasS'producers'
+p26
+(lp27
+(dp28
+g5
+I169
+sg14
+VWarren G
+p29
+sa(dp30
+g5
+I123
+sg14
+VDr. Dre
+p31
+sasS'references'
+p32
+(dp33
+S'other'
+p34
+(lp35
+(dp36
+g5
+S'587392'
+p37
+sg20
+VReady 4 Dem
+p38
+sasg14
+(lp39
+(dp40
+g3
+VNaughty By Nature
+p41
+sg5
+S'308'
+p42
+sassS'artist_id'
+p43
+I46
+sg5
+I42956
+s.

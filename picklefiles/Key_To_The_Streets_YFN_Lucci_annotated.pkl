@@ -1,0 +1,55 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Wish Me Well 2 '
+p4
+sS'id'
+p5
+I144280
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'YFN Lucci'
+p9
+sS'title'
+p10
+S'Key To The Streets'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I10144
+sg8
+VTrouble
+p15
+sa(dp16
+g5
+I44080
+sg8
+VMigos
+p17
+sasS'producers'
+p18
+(lp19
+(dp20
+g5
+I43421
+sg8
+VJune James
+p21
+sasS'references'
+p22
+(dp23
+sS'artist_id'
+p24
+I388683
+sg5
+I2426609
+s.

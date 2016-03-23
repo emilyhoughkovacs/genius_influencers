@@ -1,0 +1,65 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Free TC'
+p4
+sS'id'
+p5
+I115038
+ssS'description_refs'
+p6
+(dp7
+sS'title'
+p8
+S'Saved'
+p9
+sS'artist'
+p10
+S'Ty Dolla $ign'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I405
+sg10
+VE-40
+p15
+sasS'producers'
+p16
+(lp17
+(dp18
+g5
+I29780
+sg10
+VDJ Mustard
+p19
+sasS'references'
+p20
+(dp21
+S'song'
+p22
+(lp23
+(dp24
+S'title'
+p25
+VBitch Bitch Bitch Make Me Rich
+p26
+sS'id'
+p27
+S'15961'
+p28
+sS'artist'
+p29
+VDaz Dillinger
+p30
+sassS'artist_id'
+p31
+I25005
+sg5
+I2330692
+s.

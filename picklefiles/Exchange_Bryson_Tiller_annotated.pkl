@@ -1,0 +1,96 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'T R A P S O U L'
+p4
+sS'id'
+p5
+I129455
+ssS'description_refs'
+p6
+(dp7
+sS'title'
+p8
+S'Exchange'
+p9
+sS'artist'
+p10
+S'Bryson Tiller'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I36326
+sg10
+VThe MeKanics
+p15
+sasS'writers'
+p16
+(lp17
+(dp18
+g5
+I166114
+sg10
+VTray Samuels
+p19
+sa(dp20
+g5
+I57262
+sg10
+VMichael Hernandez
+p21
+sa(dp22
+g5
+I57263
+sg10
+VRichard Duran
+p23
+sasS'references'
+p24
+(dp25
+S'song'
+p26
+(lp27
+(dp28
+S'title'
+p29
+VShorty Swing My Way
+p30
+sS'id'
+p31
+S'26798'
+p32
+sS'artist'
+p33
+VK.P.
+p34
+sa(dp35
+g29
+VDon't
+p36
+sg31
+S'579968'
+p37
+sg33
+VBryson Tiller
+p38
+sasg10
+(lp39
+(dp40
+g3
+VK.P. & Envyi
+p41
+sg5
+S'350445'
+p42
+sassS'artist_id'
+p43
+I264368
+sg5
+I2312297
+s.

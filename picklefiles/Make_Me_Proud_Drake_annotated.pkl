@@ -1,0 +1,95 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Take Care'
+p4
+sS'id'
+p5
+I10787
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'2045'
+p11
+sassS'artist'
+p12
+S'Drake'
+p13
+sS'title'
+p14
+S'Make Me Proud'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I92
+sg12
+VNicki Minaj
+p19
+sasS'producers'
+p20
+(lp21
+(dp22
+g5
+I27479
+sg12
+VT-Minus
+p23
+sasS'writers'
+p24
+(lp25
+(dp26
+g5
+I27646
+sg12
+VNikhil "Kromatik" Seetharam
+p27
+sa(dp28
+g5
+I27612
+sg12
+VNoah \u201c40\u201d Shebib
+p29
+sa(dp30
+g5
+I27479
+sg12
+VT-Minus
+p31
+sa(dp32
+g5
+I92
+sg12
+VNicki Minaj
+p33
+sa(dp34
+g5
+I451592
+sg12
+VAnthony Palman
+p35
+sa(dp36
+g5
+I451607
+sg12
+VKenza Samir
+p37
+sasS'references'
+p38
+(dp39
+sS'artist_id'
+p40
+I130
+sg5
+I57183
+s.

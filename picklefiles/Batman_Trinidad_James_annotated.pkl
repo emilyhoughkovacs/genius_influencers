@@ -1,0 +1,44 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Trinidad James'
+p4
+sS'title'
+p5
+S'Batman'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I141781
+sg3
+VTrini G
+p11
+sa(dp12
+g10
+I20185
+sg3
+VTravis Scott
+p13
+sasS'references'
+p14
+(dp15
+S'song_unannotated'
+p16
+(lp17
+(dp18
+g10
+S'95546'
+p19
+sassS'artist_id'
+p20
+I27359
+sg10
+I360730
+s.

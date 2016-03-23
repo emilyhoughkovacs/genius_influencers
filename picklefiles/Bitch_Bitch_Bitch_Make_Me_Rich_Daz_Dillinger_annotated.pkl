@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'This is the Life I Lead'
+p4
+sS'id'
+p5
+I2057
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Daz Dillinger'
+p9
+sS'title'
+p10
+S'Bitch Bitch Bitch Make Me Rich'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I191
+sg8
+VToo $hort
+p15
+sasS'producers'
+p16
+(lp17
+(dp18
+g5
+I7161
+sg8
+VMike Dean
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I3431
+sg5
+I15961
+s.

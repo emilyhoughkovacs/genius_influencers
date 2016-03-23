@@ -1,0 +1,102 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Beauty Behind the Madness'
+p4
+sS'id'
+p5
+I127525
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VKiss Land 
+p10
+sg5
+S'33704'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VMichael Jackson
+p15
+sg5
+S'835'
+p16
+sassg12
+S'The Weeknd'
+p17
+sS'title'
+p18
+S'In the Night'
+p19
+sS'producers'
+p20
+(lp21
+(dp22
+g5
+I27835
+sg12
+VMax Martin
+p23
+sasS'writers'
+p24
+(lp25
+(dp26
+g5
+I1362
+sg12
+VBelly
+p27
+sa(dp28
+g5
+I151087
+sg12
+VAli Payami
+p29
+sa(dp30
+g5
+I346342
+sg12
+VPeter Svensson
+p31
+sa(dp32
+g5
+I179206
+sg12
+VSavan Kotecha
+p33
+sa(dp34
+g5
+I27835
+sg12
+VMax Martin
+p35
+sasS'references'
+p36
+(dp37
+S'song_unannotated'
+p38
+(lp39
+(dp40
+g5
+S'152385'
+p41
+sa(dp42
+g5
+S'460183'
+p43
+sassS'artist_id'
+p44
+I2358
+sg5
+I729457
+s.

@@ -1,0 +1,56 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S"If You're Reading This It's Too Late"
+p4
+sS'id'
+p5
+I119674
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Drake'
+p9
+sS'title'
+p10
+S"If You're Reading This It's Too Late [Album Art + Tracklist]"
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I328634
+sg8
+VJim Joe
+p15
+sasS'references'
+p16
+(dp17
+g8
+(lp18
+(dp19
+g3
+VBirdman
+p20
+sg5
+S'86'
+p21
+sa(dp22
+g3
+VLil Wayne
+p23
+sg5
+S'4'
+p24
+sassS'artist_id'
+p25
+I130
+sg5
+I703731
+s.

@@ -1,0 +1,55 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'NYC All-Star 15'
+p4
+sS'id'
+p5
+I119703
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Meek Mill'
+p9
+sS'title'
+p10
+S'B Boy'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I492
+sg8
+VBig Sean
+p15
+sa(dp16
+g5
+I15369
+sg8
+VA$AP Ferg
+p17
+sasS'producers'
+p18
+(lp19
+(dp20
+g5
+I27653
+sg8
+VSap
+p21
+sasS'references'
+p22
+(dp23
+sS'artist_id'
+p24
+I1319
+sg5
+I693724
+s.

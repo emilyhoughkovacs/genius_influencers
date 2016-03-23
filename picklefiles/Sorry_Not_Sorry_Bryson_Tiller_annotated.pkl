@@ -1,0 +1,126 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'T R A P S O U L'
+p4
+sS'id'
+p5
+I129455
+ssS'description_refs'
+p6
+(dp7
+S'song'
+p8
+(lp9
+(dp10
+S'title'
+p11
+VOvertime
+p12
+sS'id'
+p13
+S'2315263'
+p14
+sS'artist'
+p15
+VBryson Tiller
+p16
+sassS'artist'
+p17
+S'Bryson Tiller'
+p18
+sS'title'
+p19
+S'Sorry Not Sorry'
+p20
+sS'producers'
+p21
+(lp22
+(dp23
+g5
+I144054
+sg17
+VMilly Beatz
+p24
+sa(dp25
+g5
+I112
+sg17
+VTimbaland
+p26
+sasS'references'
+p27
+(dp28
+g1
+(lp29
+(dp30
+g3
+VT R A P S O U L
+p31
+sg5
+S'129455'
+p32
+sasg17
+(lp33
+(dp34
+g3
+VJay Z
+p35
+sg5
+S'2'
+p36
+sasS'song'
+p37
+(lp38
+(dp39
+S'artist'
+p40
+VJay Z
+p41
+sS'id'
+p42
+S'497'
+p43
+sS'title'
+p44
+V99 Problems
+p45
+sa(dp46
+g40
+VBryson Tiller
+p47
+sg42
+S'2315263'
+p48
+sg44
+VOvertime
+p49
+sa(dp50
+g40
+VBryson Tiller
+p51
+sg42
+S'579968'
+p52
+sg44
+VDon't
+p53
+sa(dp54
+g40
+VBryson Tiller
+p55
+sg42
+S'579968'
+p56
+sg44
+VDon't
+p57
+sassS'artist_id'
+p58
+I264368
+sg5
+I709256
+s.

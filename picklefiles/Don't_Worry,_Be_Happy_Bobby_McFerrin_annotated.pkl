@@ -1,0 +1,29 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Bobby McFerrin'
+p4
+sS'title'
+p5
+S"Don't Worry, Be Happy"
+p6
+sS'references'
+p7
+(dp8
+S'song_unannotated'
+p9
+(lp10
+(dp11
+S'id'
+p12
+S'56996'
+p13
+sassS'artist_id'
+p14
+I38206
+sg12
+I118064
+s.

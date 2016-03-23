@@ -1,0 +1,58 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Reasonable Doubt'
+p4
+sS'id'
+p5
+I4063
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Jay Z'
+p9
+sS'title'
+p10
+S"Feelin' It"
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I904
+sg8
+VMecca
+p15
+sasS'producers'
+p16
+(lp17
+(dp18
+g5
+I12991
+sg8
+VSki Beatz
+p19
+sasS'writers'
+p20
+(lp21
+(dp22
+g5
+I12991
+sg8
+VSki Beatz
+p23
+sasS'references'
+p24
+(dp25
+sS'artist_id'
+p26
+I2
+sg5
+I64
+s.

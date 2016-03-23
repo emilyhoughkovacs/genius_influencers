@@ -1,0 +1,32 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Drake'
+p4
+sS'title'
+p5
+S'Hot 97 Freestyle'
+p6
+sS'references'
+p7
+(dp8
+S'other'
+p9
+(lp10
+(dp11
+S'id'
+p12
+S'2461'
+p13
+sg5
+VGhetto Musick
+p14
+sassS'artist_id'
+p15
+I130
+sg12
+I1655
+s.

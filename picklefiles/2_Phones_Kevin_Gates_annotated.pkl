@@ -1,0 +1,77 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Islah'
+p4
+sS'id'
+p5
+I134900
+ssS'description_refs'
+p6
+(dp7
+S'song'
+p8
+(lp9
+(dp10
+S'title'
+p11
+VI Don't Get Tired
+p12
+sS'id'
+p13
+S'583542'
+p14
+sS'artist'
+p15
+VKevin Gates
+p16
+sassS'title'
+p17
+S'2 Phones'
+p18
+sS'artist'
+p19
+S'Kevin Gates'
+p20
+sS'producers'
+p21
+(lp22
+(dp23
+g5
+I1972
+sg19
+VMad Max
+p24
+sasS'writers'
+p25
+(lp26
+(dp27
+g5
+I648274
+sg19
+VRick Witherspoon Jr.
+p28
+sa(dp29
+g5
+I643393
+sg19
+VKevin Gilyard
+p30
+sa(dp31
+g5
+I648273
+sg19
+VBrittany Hazzard
+p32
+sasS'references'
+p33
+(dp34
+sS'artist_id'
+p35
+I30192
+sg5
+I2348651
+s.

@@ -1,0 +1,82 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Nothing Was the Same'
+p4
+sS'id'
+p5
+I40475
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Drake'
+p9
+sS'title'
+p10
+S'Furthest Thing'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I183757
+sg8
+VHagler
+p15
+sa(dp16
+g5
+I27612
+sg8
+VNoah \u201c40\u201d Shebib
+p17
+sasS'writers'
+p18
+(lp19
+(dp20
+g5
+I27916
+sg8
+VAdrian X
+p21
+sa(dp22
+g5
+I451592
+sg8
+VAnthony Palman
+p23
+sa(dp24
+g5
+I27612
+sg8
+VNoah \u201c40\u201d Shebib
+p25
+sa(dp26
+g5
+I183757
+sg8
+VHagler
+p27
+sasS'references'
+p28
+(dp29
+g1
+(lp30
+(dp31
+g3
+VNothing Was the Same
+p32
+sg5
+S'40475'
+p33
+sassS'artist_id'
+p34
+I130
+sg5
+I217263
+s.

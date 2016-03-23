@@ -1,0 +1,52 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Tory Lanez'
+p4
+sS'title'
+p5
+S'LA Confidential'
+p6
+sS'producers'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I49698
+sg3
+VCashmere Cat
+p11
+sa(dp12
+g10
+I27701
+sg3
+VAndrew "Pop" Wansel
+p13
+sa(dp14
+g10
+I28906
+sg3
+VBenny Blanco
+p15
+sasS'writers'
+p16
+(lp17
+(dp18
+g10
+I446
+sg3
+VMiguel
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I1632
+sg10
+I2414510
+s.

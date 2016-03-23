@@ -1,0 +1,47 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'I Tried To Tell'
+p4
+sS'id'
+p5
+I131112
+ssS'description_refs'
+p6
+(dp7
+sS'title'
+p8
+S'Moolah'
+p9
+sS'artist'
+p10
+S'Young Greatness'
+p11
+sS'references'
+p12
+(dp13
+S'song'
+p14
+(lp15
+(dp16
+S'title'
+p17
+V1st of tha Month
+p18
+sS'id'
+p19
+S'66'
+p20
+sS'artist'
+p21
+VBone Thugs-n-Harmony
+p22
+sassS'artist_id'
+p23
+I65377
+sg5
+I2307164
+s.

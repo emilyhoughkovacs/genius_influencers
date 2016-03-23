@@ -1,0 +1,64 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Wrath Of Caine'
+p4
+sS'id'
+p5
+I25090
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VWrath Of Caine
+p10
+sg5
+S'25090'
+p11
+sassS'artist'
+p12
+S'Pusha T'
+p13
+sS'title'
+p14
+S'Millions'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I88
+sg12
+VRick Ross
+p19
+sasS'producers'
+p20
+(lp21
+(dp22
+g5
+I23315
+sg12
+VSouthside
+p23
+sa(dp24
+g5
+I72
+sg12
+VKanye West
+p25
+sasS'references'
+p26
+(dp27
+sS'artist_id'
+p28
+I643
+sg5
+I108547
+s.

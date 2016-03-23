@@ -1,0 +1,99 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Ransom 2'
+p4
+sS'id'
+p5
+I143665
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VMike WiLL Made It
+p11
+sg5
+S'29978'
+p12
+sassS'title'
+p13
+S'By Chance'
+p14
+sg8
+S'Mike WiLL Made It'
+p15
+sS'references'
+p16
+(dp17
+S'song'
+p18
+(lp19
+(dp20
+S'title'
+p21
+VNo Type
+p22
+sS'id'
+p23
+S'507478'
+p24
+sS'artist'
+p25
+VRae Sremmurd
+p26
+sa(dp27
+g21
+VNo Flex Zone
+p28
+sg23
+S'423398'
+p29
+sg25
+VRae Sremmurd
+p30
+sa(dp31
+g21
+VThrow Sum Mo
+p32
+sg23
+S'602900'
+p33
+sg25
+VRae Sremmurd
+p34
+sasg8
+(lp35
+(dp36
+g3
+VJohn Lennon
+p37
+sg5
+S'16450'
+p38
+sa(dp39
+g3
+VThe Beatles
+p40
+sg5
+S'586'
+p41
+sa(dp42
+g3
+VYoko Ono
+p43
+sg5
+S'27984'
+p44
+sassS'artist_id'
+p45
+I29978
+sg5
+I2401700
+s.

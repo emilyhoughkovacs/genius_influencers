@@ -1,0 +1,96 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Tha Truth, Pt. 2'
+p4
+sS'id'
+p5
+I143439
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VTrae tha Truth
+p11
+sg5
+S'1075'
+p12
+sa(dp13
+g3
+VYoung Thug
+p14
+sg5
+S'20503'
+p15
+sassS'title'
+p16
+S'Slugs'
+p17
+sg8
+S'Trae tha Truth'
+p18
+sS'featured_artists'
+p19
+(lp20
+(dp21
+g5
+I20503
+sg8
+VYoung Thug
+p22
+sasS'producers'
+p23
+(lp24
+(dp25
+g5
+I474207
+sg8
+VJae The Giant
+p26
+sa(dp27
+g5
+I149336
+sg8
+VWatson The Great
+p28
+sasS'references'
+p29
+(dp30
+S'song'
+p31
+(lp32
+(dp33
+S'title'
+p34
+VDirk Nowitzki
+p35
+sS'id'
+p36
+S'2342995'
+p37
+sS'artist'
+p38
+VMigos
+p39
+sasg8
+(lp40
+(dp41
+g3
+VMigos
+p42
+sg5
+S'44080'
+p43
+sassS'artist_id'
+p44
+I1075
+sg5
+I2413367
+s.

@@ -1,0 +1,62 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'FanMail'
+p4
+sS'id'
+p5
+I9987
+ssS'description_refs'
+p6
+(dp7
+S'other'
+p8
+(lp9
+(dp10
+g5
+S'2367'
+p11
+sS'title'
+p12
+VNo Pigeons
+p13
+sassS'artist'
+p14
+S'TLC'
+p15
+sg12
+S'No Scrubs'
+p16
+sS'writers'
+p17
+(lp18
+(dp19
+g5
+I587534
+sg14
+VTionne "T-Boz" Watkins
+p20
+sa(dp21
+g5
+I7393
+sg14
+VLisa 'Left Eye' Lopes
+p22
+sa(dp23
+g5
+I587535
+sg14
+VCrystal Jones
+p24
+sasS'references'
+p25
+(dp26
+sS'artist_id'
+p27
+I964
+sg5
+I2365
+s.

@@ -1,0 +1,160 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Slime Season'
+p4
+sS'id'
+p5
+I126701
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VSlime Season
+p10
+sg5
+S'126701'
+p11
+sasS'song'
+p12
+(lp13
+(dp14
+S'title'
+p15
+VThat's My Best Friend
+p16
+sS'id'
+p17
+S'2274243'
+p18
+sS'artist'
+p19
+VTokyo Vanity
+p20
+sasS'artist'
+p21
+(lp22
+(dp23
+g3
+VTokyo Vanity
+p24
+sg5
+S'546590'
+p25
+sassg21
+S'Young Thug'
+p26
+sS'title'
+p27
+S'Best Friend'
+p28
+sS'producers'
+p29
+(lp30
+(dp31
+g5
+I197662
+sg21
+VYoung Shad
+p32
+sa(dp33
+g5
+I37246
+sg21
+VRicky Racks
+p34
+sasS'references'
+p35
+(dp36
+S'other'
+p37
+(lp38
+(dp39
+g5
+S'315619'
+p40
+sg27
+VStoner
+p41
+sasg21
+(lp42
+(dp43
+g3
+VKanye West
+p44
+sg5
+S'72'
+p45
+sa(dp46
+g3
+VBob Marley
+p47
+sg5
+S'922'
+p48
+sa(dp49
+g3
+VBill Gates
+p50
+sg5
+S'26975'
+p51
+sa(dp52
+g3
+VLil Wayne
+p53
+sg5
+S'4'
+p54
+sa(dp55
+g3
+VMichael Jackson
+p56
+sg5
+S'835'
+p57
+sa(dp58
+g3
+VPusha T
+p59
+sg5
+S'643'
+p60
+sasS'song'
+p61
+(lp62
+(dp63
+S'artist'
+p64
+VPusha T
+p65
+sS'id'
+p66
+S'108547'
+p67
+sS'title'
+p68
+VMillions
+p69
+sa(dp70
+g64
+VWaka Flocka Flame
+p71
+sg66
+S'55662'
+p72
+sg68
+VT.T.G. (Trained To Go)
+p73
+sassS'artist_id'
+p74
+I20503
+sg5
+I2165110
+s.

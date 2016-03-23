@@ -1,0 +1,47 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Hood Billionaire'
+p4
+sS'id'
+p5
+I112280
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Rick Ross'
+p9
+sS'title'
+p10
+S'Hood Billionaire Tracklist'
+p11
+sS'references'
+p12
+(dp13
+g8
+(lp14
+(dp15
+g3
+VJay Z
+p16
+sg5
+S'2'
+p17
+sa(dp18
+g3
+VLex Luger
+p19
+sg5
+S'2268'
+p20
+sassS'artist_id'
+p21
+I88
+sg5
+I535442
+s.

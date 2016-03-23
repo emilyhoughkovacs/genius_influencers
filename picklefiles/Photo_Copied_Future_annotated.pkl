@@ -1,0 +1,107 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'EVOL'
+p4
+sS'id'
+p5
+I143267
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VWhat a Time to Be Alive 
+p10
+sg5
+S'131405'
+p11
+sasS'song'
+p12
+(lp13
+(dp14
+S'title'
+p15
+VDS2 Cover Art + Tracklist
+p16
+sS'id'
+p17
+S'2172126'
+p18
+sS'artist'
+p19
+VFuture
+p20
+sa(dp21
+g15
+VJersey
+p22
+sg17
+S'2311370'
+p23
+sg19
+VDrake & Future
+p24
+sa(dp25
+g15
+VThought It Was A Drought
+p26
+sg17
+S'2213836'
+p27
+sg19
+VFuture
+p28
+sa(dp29
+g15
+VDiamonds Dancing
+p30
+sg17
+S'2311366'
+p31
+sg19
+VDrake & Future
+p32
+sassS'title'
+p33
+S'Photo Copied'
+p34
+sS'artist'
+p35
+S'Future'
+p36
+sS'producers'
+p37
+(lp38
+(dp39
+g5
+I55684
+sg35
+VAllen Ritter
+p40
+sa(dp41
+g5
+I23315
+sg35
+VSouthside
+p42
+sa(dp43
+g5
+I33010
+sg35
+VMetro Boomin
+p44
+sasS'references'
+p45
+(dp46
+sS'artist_id'
+p47
+I2197
+sg5
+I2417517
+s.

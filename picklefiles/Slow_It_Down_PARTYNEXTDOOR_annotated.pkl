@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Jahron B. Collection'
+p4
+sS'id'
+p5
+I98038
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'PARTYNEXTDOOR'
+p9
+sS'title'
+p10
+S'Slow It Down'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I47131
+sg5
+I732419
+s.

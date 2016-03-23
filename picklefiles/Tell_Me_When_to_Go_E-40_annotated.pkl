@@ -1,0 +1,56 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'My Ghetto Report Card'
+p4
+sS'id'
+p5
+I2742
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'E-40'
+p9
+sS'title'
+p10
+S'Tell Me When to Go'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I606
+sg8
+VKeak da Sneak
+p15
+sasS'producers'
+p16
+(lp17
+(dp18
+g5
+I107
+sg8
+VLil Jon
+p19
+sasS'references'
+p20
+(dp21
+S'song_unannotated'
+p22
+(lp23
+(dp24
+g5
+S'5968'
+p25
+sassS'artist_id'
+p26
+I405
+sg5
+I2468
+s.

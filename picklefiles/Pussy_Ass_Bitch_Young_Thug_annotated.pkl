@@ -1,0 +1,47 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Young Thug'
+p4
+sS'title'
+p5
+S'Pussy Ass Bitch'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I156618
+sg3
+VFerrari Ferrel
+p11
+sasS'producers'
+p12
+(lp13
+(dp14
+g10
+I34340
+sg3
+VDa Honorable C.N.O.T.E.
+p15
+sasS'references'
+p16
+(dp17
+S'song_unannotated'
+p18
+(lp19
+(dp20
+g10
+S'2250505'
+p21
+sassS'artist_id'
+p22
+I20503
+sg10
+I386121
+s.

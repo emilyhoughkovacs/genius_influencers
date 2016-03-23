@@ -1,0 +1,107 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S"(What's The Story) Morning Glory? "
+p4
+sS'id'
+p5
+I17740
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VStop The Clocks
+p10
+sg5
+S'80251'
+p11
+sa(dp12
+g3
+VTime Flies... 1994\u20132009
+p13
+sg5
+S'122913'
+p14
+sasS'artist'
+p15
+(lp16
+(dp17
+g3
+VPaul McCartney
+p18
+sg5
+S'1601'
+p19
+sa(dp20
+g3
+VGeorge Harrison
+p21
+sg5
+S'33327'
+p22
+sassg15
+S'Oasis'
+p23
+sS'title'
+p24
+S'Wonderwall'
+p25
+sS'producers'
+p26
+(lp27
+(dp28
+g5
+I41605
+sg15
+VOwen Morris
+p29
+sa(dp30
+g5
+I69347
+sg15
+VNoel Gallagher
+p31
+sasS'writers'
+p32
+(lp33
+(dp34
+g5
+I69347
+sg15
+VNoel Gallagher
+p35
+sasS'references'
+p36
+(dp37
+S'song_unannotated'
+p38
+(lp39
+(dp40
+g5
+S'327470'
+p41
+sa(dp42
+g5
+S'123451'
+p43
+sasg15
+(lp44
+(dp45
+g3
+VThe Beatles
+p46
+sg5
+S'586'
+p47
+sassS'artist_id'
+p48
+I21100
+sg5
+I76654
+s.

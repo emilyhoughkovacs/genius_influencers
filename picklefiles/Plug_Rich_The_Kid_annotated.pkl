@@ -1,0 +1,46 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Dabbin Fever'
+p4
+sS'id'
+p5
+I140491
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Rich The Kid'
+p9
+sS'title'
+p10
+S'Plug'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I289976
+sg8
+VPlayboi Carti
+p15
+sa(dp16
+g5
+I162126
+sg8
+VKodak Black
+p17
+sasS'references'
+p18
+(dp19
+sS'artist_id'
+p20
+I65109
+sg5
+I2372618
+s.

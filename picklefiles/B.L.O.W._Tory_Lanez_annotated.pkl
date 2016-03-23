@@ -1,0 +1,37 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Tory Lanez'
+p4
+sS'title'
+p5
+S'B.L.O.W.'
+p6
+sS'producers'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I616538
+sg3
+VSergio Romero
+p11
+sa(dp12
+g10
+I233747
+sg3
+VPlay Picasso
+p13
+sasS'references'
+p14
+(dp15
+sS'artist_id'
+p16
+I1632
+sg10
+I2310122
+s.

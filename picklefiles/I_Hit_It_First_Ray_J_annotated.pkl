@@ -1,0 +1,67 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Raydiation 2'
+p4
+sS'id'
+p5
+I31238
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VKanye West
+p11
+sg5
+S'72'
+p12
+sassg8
+S'Ray J'
+p13
+sS'title'
+p14
+S'I Hit It First'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I437
+sg8
+VBobby Brackins
+p19
+sasS'producers'
+p20
+(lp21
+(dp22
+g5
+I29680
+sg8
+VNic Nac
+p23
+sasS'references'
+p24
+(dp25
+g8
+(lp26
+(dp27
+g3
+VBobby Brackins
+p28
+sg5
+S'437'
+p29
+sassS'artist_id'
+p30
+I436
+sg5
+I136893
+s.

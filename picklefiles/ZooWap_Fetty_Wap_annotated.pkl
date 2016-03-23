@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Zoo Style'
+p4
+sS'id'
+p5
+I120212
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Fetty Wap'
+p9
+sS'title'
+p10
+S'ZooWap'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I216609
+sg5
+I496456
+s.

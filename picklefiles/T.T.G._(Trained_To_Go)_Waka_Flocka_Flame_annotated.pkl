@@ -1,0 +1,103 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Flockaveli'
+p4
+sS'id'
+p5
+I10386
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Waka Flocka Flame'
+p9
+sS'title'
+p10
+S'T.T.G. (Trained To Go)'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I11779
+sg8
+VYG Hootie
+p15
+sa(dp16
+g5
+I1583
+sg8
+VFrench Montana
+p17
+sa(dp18
+g5
+I13567
+sg8
+VJoe Moses
+p19
+sa(dp20
+g5
+I13568
+sg8
+VBaby Bomb
+p21
+sa(dp22
+g5
+I118
+sg8
+VYo Gotti
+p23
+sasS'producers'
+p24
+(lp25
+(dp26
+g5
+I2268
+sg8
+VLex Luger
+p27
+sasS'references'
+p28
+(dp29
+g8
+(lp30
+(dp31
+g3
+VBaby Bomb
+p32
+sg5
+S'13568'
+p33
+sa(dp34
+g3
+VTech N9ne
+p35
+sg5
+S'506'
+p36
+sa(dp37
+g3
+VN.W.A
+p38
+sg5
+S'974'
+p39
+sa(dp40
+g3
+VKendrick Lamar
+p41
+sg5
+S'1421'
+p42
+sassS'artist_id'
+p43
+I257
+sg5
+I55662
+s.

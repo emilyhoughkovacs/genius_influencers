@@ -1,0 +1,93 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Life Is Good'
+p4
+sS'id'
+p5
+I12283
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Nas'
+p9
+sS'title'
+p10
+S'The Don'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I22161
+sg8
+VMazy
+p15
+sasS'producers'
+p16
+(lp17
+(dp18
+g5
+I27765
+sg8
+VSalaam Remi
+p19
+sa(dp20
+g5
+I27707
+sg8
+VDa Internz
+p21
+sa(dp22
+g5
+I2121
+sg8
+VHeavy D
+p23
+sasS'references'
+p24
+(dp25
+g1
+(lp26
+(dp27
+g3
+VIllmatic
+p28
+sg5
+S'7013'
+p29
+sasg8
+(lp30
+(dp31
+g3
+VDa Internz
+p32
+sg5
+S'27707'
+p33
+sa(dp34
+g3
+VHeavy D
+p35
+sg5
+S'2121'
+p36
+sa(dp37
+g3
+VSalaam Remi
+p38
+sg5
+S'27765'
+p39
+sassS'artist_id'
+p40
+I56
+sg5
+I68291
+s.

@@ -1,0 +1,64 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'G.D.O.D.'
+p4
+sS'id'
+p5
+I32869
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VHustle Gang
+p11
+sg5
+S'50175'
+p12
+sassg8
+S'Doe B'
+p13
+sS'title'
+p14
+S'Let Me Find Out (Remix)'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I1073
+sg8
+VJuicy J
+p19
+sa(dp20
+g5
+I85
+sg8
+VT.I.
+p21
+sasS'producers'
+p22
+(lp23
+(dp24
+g5
+I49344
+sg8
+VTrap Beats
+p25
+sasS'references'
+p26
+(dp27
+sS'artist_id'
+p28
+I49343
+sg5
+I149774
+s.

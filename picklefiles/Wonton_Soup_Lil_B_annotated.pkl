@@ -1,0 +1,63 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Blue Flame'
+p4
+sS'id'
+p5
+I11100
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Lil B'
+p9
+sS'title'
+p10
+S'Wonton Soup'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I28518
+sg8
+VLil Keis
+p15
+sasS'references'
+p16
+(dp17
+g8
+(lp18
+(dp19
+g3
+VLil B
+p20
+sg5
+S'455'
+p21
+sa(dp22
+g3
+VLil B
+p23
+sg5
+S'455'
+p24
+sa(dp25
+g3
+VLil B
+p26
+sg5
+S'455'
+p27
+sassS'artist_id'
+p28
+I455
+sg5
+I2711
+s.

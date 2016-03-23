@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Anything in Return'
+p4
+sS'id'
+p5
+I22660
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Toro Y Moi'
+p9
+sS'title'
+p10
+S'Cola'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I14082
+sg5
+I106362
+s.

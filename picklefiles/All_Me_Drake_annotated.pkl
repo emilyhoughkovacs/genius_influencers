@@ -1,0 +1,194 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Nothing Was the Same'
+p4
+sS'id'
+p5
+I40475
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Drake'
+p9
+sS'title'
+p10
+S'All Me'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I14325
+sg8
+V2 Chainz
+p15
+sa(dp16
+g5
+I492
+sg8
+VBig Sean
+p17
+sasS'producers'
+p18
+(lp19
+(dp20
+g5
+I27638
+sg8
+VKeY Wane
+p21
+sasS'writers'
+p22
+(lp23
+(dp24
+g5
+I451615
+sg8
+VMaurice Yvain
+p25
+sa(dp26
+g5
+I451592
+sg8
+VAnthony Palman
+p27
+sa(dp28
+g5
+I14325
+sg8
+V2 Chainz
+p29
+sa(dp30
+g5
+I492
+sg8
+VBig Sean
+p31
+sa(dp32
+g5
+I451617
+sg8
+VJacques Charles
+p33
+sa(dp34
+g5
+I27638
+sg8
+VKeY Wane
+p35
+sa(dp36
+g5
+I451616
+sg8
+VAlbert Willemetz
+p37
+sasS'references'
+p38
+(dp39
+S'song_unannotated'
+p40
+(lp41
+(dp42
+g5
+S'203961'
+p43
+sasg8
+(lp44
+(dp45
+g3
+VMac Miller
+p46
+sg5
+S'820'
+p47
+sa(dp48
+g3
+VKeY Wane
+p49
+sg5
+S'27638'
+p50
+sa(dp51
+g3
+VKeY Wane
+p52
+sg5
+S'27638'
+p53
+sa(dp54
+g3
+VKardinal Offishall
+p55
+sg5
+S'936'
+p56
+sassS'sampled_songs'
+p57
+(lp58
+(dp59
+Vtitle
+p60
+VMy Man
+p61
+sVpyongs_count
+p62
+NsVurl
+p63
+Vhttp://genius.com/Abbey-lincoln-my-man-lyrics
+p64
+sVfull_title
+p65
+VMy Man by Abbey Lincoln
+p66
+sVheader_image_thumbnail_url
+p67
+Vhttps://assets.rapgenius.com/images/default_cover_image.png?1458586587
+p68
+sVpath
+p69
+V/Abbey-lincoln-my-man-lyrics
+p70
+sVprimary_artist
+p71
+(dp72
+Vurl
+p73
+Vhttp://genius.com/artists/Abbey-lincoln
+p74
+sVis_verified
+p75
+I00
+sVimage_url
+p76
+Vhttps://assets.rapgenius.com/images/default_cover_art.png?1458586587
+p77
+sVid
+p78
+I347701
+sVname
+p79
+VAbbey Lincoln
+p80
+ssVannotation_count
+p81
+I1
+sVid
+p82
+I754930
+sVheader_image_url
+p83
+Vhttps://assets.rapgenius.com/images/default_cover_image.png?1458586587
+p84
+sasS'artist_id'
+p85
+I130
+sg5
+I196551
+s.

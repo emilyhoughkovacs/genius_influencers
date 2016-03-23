@@ -1,0 +1,47 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'T R A P S O U L'
+p4
+sS'id'
+p5
+I129455
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VT R A P S O U L
+p10
+sg5
+S'129455'
+p11
+sassS'artist'
+p12
+S'Bryson Tiller'
+p13
+sS'title'
+p14
+S'Overtime'
+p15
+sS'references'
+p16
+(dp17
+S'song_unannotated'
+p18
+(lp19
+(dp20
+g5
+S'2149919'
+p21
+sassS'artist_id'
+p22
+I264368
+sg5
+I2315263
+s.

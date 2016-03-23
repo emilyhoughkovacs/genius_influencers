@@ -1,0 +1,47 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Mastermind'
+p4
+sS'id'
+p5
+I27316
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Rick Ross'
+p9
+sS'title'
+p10
+S'Rich Is Gangsta'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I27639
+sg8
+VBlack Metaphor
+p15
+sasS'references'
+p16
+(dp17
+S'song_unannotated'
+p18
+(lp19
+(dp20
+g5
+S'365945'
+p21
+sassS'artist_id'
+p22
+I88
+sg5
+I365947
+s.

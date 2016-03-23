@@ -1,0 +1,56 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Downtown: Life Under the Gun'
+p4
+sS'id'
+p5
+I43289
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'232918'
+p11
+sassS'artist'
+p12
+S'August Alsina'
+p13
+sS'title'
+p14
+S'I Luv This Shit'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I27359
+sg12
+VTrinidad James
+p19
+sasS'producers'
+p20
+(lp21
+(dp22
+g5
+I7698
+sg12
+VKnuckle Head
+p23
+sasS'references'
+p24
+(dp25
+sS'artist_id'
+p26
+I25418
+sg5
+I118141
+s.

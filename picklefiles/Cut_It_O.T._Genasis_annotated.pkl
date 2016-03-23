@@ -1,0 +1,91 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Rhythm & Bricks'
+p4
+sS'id'
+p5
+I131546
+ssS'description_refs'
+p6
+(dp7
+S'song'
+p8
+(lp9
+(dp10
+S'title'
+p11
+VCoCo
+p12
+sS'id'
+p13
+S'539654'
+p14
+sS'artist'
+p15
+VO.T. Genasis
+p16
+sa(dp17
+g11
+VCoCo
+p18
+sg13
+S'539654'
+p19
+sg15
+VO.T. Genasis
+p20
+sasS'artist'
+p21
+(lp22
+(dp23
+g3
+VA$AP Ferg
+p24
+sg5
+S'15369'
+p25
+sa(dp26
+g3
+VShy Glizzy
+p27
+sg5
+S'19139'
+p28
+sassS'title'
+p29
+S'Cut It'
+p30
+sg21
+S'O.T. Genasis'
+p31
+sS'featured_artists'
+p32
+(lp33
+(dp34
+g5
+I22437
+sg21
+VYoung Dolph
+p35
+sasS'producers'
+p36
+(lp37
+(dp38
+g5
+I57927
+sg21
+VI.TrezBeats
+p39
+sasS'references'
+p40
+(dp41
+sS'artist_id'
+p42
+I154225
+sg5
+I2295548
+s.

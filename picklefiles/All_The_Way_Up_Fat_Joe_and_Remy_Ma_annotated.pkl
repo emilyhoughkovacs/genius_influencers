@@ -1,0 +1,77 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'title'
+p3
+S'All The Way Up'
+p4
+sS'artist'
+p5
+S'Fat Joe and Remy Ma'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I1583
+sg5
+VFrench Montana
+p11
+sasS'producers'
+p12
+(lp13
+(dp14
+g10
+I218313
+sg5
+VEdsclusive (Miami)
+p15
+sasS'writers'
+p16
+(lp17
+(dp18
+g10
+I83
+sg5
+VFat Joe
+p19
+sa(dp20
+g10
+I1583
+sg5
+VFrench Montana
+p21
+sa(dp22
+g10
+I2274
+sg5
+VRemy Ma
+p23
+sasS'references'
+p24
+(dp25
+S'song'
+p26
+(lp27
+(dp28
+S'title'
+p29
+VColor Money
+p30
+sS'id'
+p31
+S'2381771'
+p32
+sS'artist'
+p33
+VRick Ross
+p34
+sassS'artist_id'
+p35
+I649478
+sg10
+I2439141
+s.

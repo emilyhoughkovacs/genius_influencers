@@ -1,0 +1,46 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Juicy J'
+p4
+sS'title'
+p5
+S'Ice'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I2197
+sg3
+VFuture
+p11
+sa(dp12
+g10
+I15369
+sg3
+VA$AP Ferg
+p13
+sasS'producers'
+p14
+(lp15
+(dp16
+g10
+I29978
+sg3
+VMike WiLL Made It
+p17
+sasS'references'
+p18
+(dp19
+sS'artist_id'
+p20
+I1073
+sg10
+I525473
+s.

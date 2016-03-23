@@ -1,0 +1,95 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Trap Lord'
+p4
+sS'id'
+p5
+I29526
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'A$AP Ferg'
+p9
+sS'title'
+p10
+S'Work (Remix)'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I1583
+sg8
+VFrench Montana
+p15
+sa(dp16
+g5
+I27359
+sg8
+VTrinidad James
+p17
+sa(dp18
+g5
+I12417
+sg8
+VA$AP Rocky
+p19
+sa(dp20
+g5
+I11353
+sg8
+VScHoolboy Q
+p21
+sa(dp22
+g5
+I546
+sg8
+VLoaded Lux
+p23
+sasS'producers'
+p24
+(lp25
+(dp26
+g5
+I67380
+sg8
+VFly Beats
+p27
+sa(dp28
+g5
+I67379
+sg8
+VChinza
+p29
+sasS'references'
+p30
+(dp31
+S'song_unannotated'
+p32
+(lp33
+(dp34
+g5
+S'90478'
+p35
+sasg8
+(lp36
+(dp37
+g3
+VKendrick Lamar
+p38
+sg5
+S'1421'
+p39
+sassS'artist_id'
+p40
+I15369
+sg5
+I151327
+s.

@@ -1,0 +1,40 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Rich Homie Quan'
+p4
+sS'title'
+p5
+S'The Most'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I20503
+sg3
+VYoung Thug
+p11
+sasS'producers'
+p12
+(lp13
+(dp14
+g10
+I44575
+sg3
+VLondon On Da Track
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I24823
+sg10
+I2213105
+s.

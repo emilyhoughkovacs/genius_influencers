@@ -1,0 +1,55 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Pink Friday'
+p4
+sS'id'
+p5
+I7158
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Nicki Minaj'
+p9
+sS'title'
+p10
+S'Moment 4 Life'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I130
+sg8
+VDrake
+p15
+sasS'producers'
+p16
+(lp17
+(dp18
+g5
+I27646
+sg8
+VNikhil "Kromatik" Seetharam
+p19
+sa(dp20
+g5
+I27479
+sg8
+VT-Minus
+p21
+sasS'references'
+p22
+(dp23
+sS'artist_id'
+p24
+I92
+sg5
+I2045
+s.

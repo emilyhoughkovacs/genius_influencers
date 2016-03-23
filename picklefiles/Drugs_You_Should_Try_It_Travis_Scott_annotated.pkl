@@ -1,0 +1,46 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Days Before Rodeo'
+p4
+sS'id'
+p5
+I110716
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Travis Scott'
+p9
+sS'title'
+p10
+S'Drugs You Should Try It'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I539718
+sg8
+VCharlie Handsome
+p15
+sa(dp16
+g5
+I15379
+sg8
+VFKi
+p17
+sasS'references'
+p18
+(dp19
+sS'artist_id'
+p20
+I20185
+sg5
+I499870
+s.

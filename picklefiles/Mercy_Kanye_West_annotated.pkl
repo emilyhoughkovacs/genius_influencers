@@ -1,0 +1,126 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Cruel Summer'
+p4
+sS'id'
+p5
+I109923
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VLifted
+p11
+sg5
+S'27618'
+p12
+sassg8
+S'Kanye West'
+p13
+sS'title'
+p14
+S'Mercy'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I14325
+sg8
+V2 Chainz
+p19
+sa(dp20
+g5
+I643
+sg8
+VPusha T
+p21
+sa(dp22
+g5
+I492
+sg8
+VBig Sean
+p23
+sasS'producers'
+p24
+(lp25
+(dp26
+g5
+I27618
+sg8
+VLifted
+p27
+sasS'writers'
+p28
+(lp29
+(dp30
+g5
+I645495
+sg8
+VReggie Williams
+p31
+sa(dp32
+g5
+I407955
+sg8
+VWinston Riley
+p33
+sa(dp34
+g5
+I645494
+sg8
+VDenzie Beagle
+p35
+sa(dp36
+g5
+I645493
+sg8
+VStephan Taft
+p37
+sa(dp38
+g5
+I14325
+sg8
+V2 Chainz
+p39
+sa(dp40
+g5
+I492
+sg8
+VBig Sean
+p41
+sa(dp42
+g5
+I643
+sg8
+VPusha T
+p43
+sasS'references'
+p44
+(dp45
+S'song_unannotated'
+p46
+(lp47
+(dp48
+g5
+S'1267'
+p49
+sa(dp50
+g5
+S'848'
+p51
+sassS'artist_id'
+p52
+I72
+sg5
+I70324
+s.

@@ -1,0 +1,72 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'SremmLife'
+p4
+sS'id'
+p5
+I116274
+ssS'description_refs'
+p6
+(dp7
+S'song'
+p8
+(lp9
+(dp10
+S'title'
+p11
+VNo Flex Zone
+p12
+sS'id'
+p13
+S'423398'
+p14
+sS'artist'
+p15
+VRae Sremmurd
+p16
+sassS'artist'
+p17
+S'Rae Sremmurd'
+p18
+sS'title'
+p19
+S'No Type'
+p20
+sS'producers'
+p21
+(lp22
+(dp23
+g5
+I29978
+sg17
+VMike WiLL Made It
+p24
+sasS'references'
+p25
+(dp26
+S'song'
+p27
+(lp28
+(dp29
+S'artist'
+p30
+VRae Sremmurd
+p31
+sS'id'
+p32
+S'423398'
+p33
+sS'title'
+p34
+VNo Flex Zone
+p35
+sassS'artist_id'
+p36
+I177756
+sg5
+I507478
+s.
