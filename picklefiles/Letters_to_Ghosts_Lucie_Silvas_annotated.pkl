@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Letters to Ghosts'
+p4
+sS'id'
+p5
+I146166
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VBrothers Osborne
+p11
+sg5
+S'336757'
+p12
+sassg8
+S'Lucie Silvas'
+p13
+sS'title'
+p14
+S'Letters to Ghosts'
+p15
+sS'producers'
+p16
+(lp17
+(dp18
+g5
+I647720
+sg8
+VJohn Osborne
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I39140
+sg5
+I2057145
+s.

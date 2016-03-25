@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'No More Drama'
+p4
+sS'id'
+p5
+I6384
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Mary J. Blige'
+p9
+sS'title'
+p10
+S'Family Affair'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I123
+sg8
+VDr. Dre
+p15
+sasS'references'
+p16
+(dp17
+g1
+(lp18
+(dp19
+g3
+V2001
+p20
+sg5
+S'2605'
+p21
+sassS'artist_id'
+p22
+I358
+sg5
+I468201
+s.

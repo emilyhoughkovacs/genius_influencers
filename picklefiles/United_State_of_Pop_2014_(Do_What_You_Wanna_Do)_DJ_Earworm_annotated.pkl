@@ -1,0 +1,256 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+S'artist'
+p3
+(lp4
+(dp5
+S'name'
+p6
+VA Great Big World
+p7
+sS'id'
+p8
+S'87946'
+p9
+sa(dp10
+g6
+VChristina Aguilera
+p11
+sg8
+S'1211'
+p12
+sa(dp13
+g6
+VAriana Grande
+p14
+sg8
+S'26507'
+p15
+sa(dp16
+g6
+VIggy Azalea
+p17
+sg8
+S'14598'
+p18
+sa(dp19
+g6
+VBastille
+p20
+sg8
+S'43324'
+p21
+sa(dp22
+g6
+VDJ Snake
+p23
+sg8
+S'41287'
+p24
+sa(dp25
+g6
+VLil Jon
+p26
+sg8
+S'107'
+p27
+sa(dp28
+g6
+VHozier
+p29
+sg8
+S'73910'
+p30
+sa(dp31
+g6
+VIdina Menzel
+p32
+sg8
+S'33242'
+p33
+sa(dp34
+g6
+VCharli XCX
+p35
+sg8
+S'45349'
+p36
+sa(dp37
+g6
+VRita Ora
+p38
+sg8
+S'17853'
+p39
+sa(dp40
+g6
+VJason Derulo
+p41
+sg8
+S'17764'
+p42
+sa(dp43
+g6
+V2 Chainz
+p44
+sg8
+S'14325'
+p45
+sa(dp46
+g6
+VJeremih
+p47
+sg8
+S'278'
+p48
+sa(dp49
+g6
+VYG
+p50
+sg8
+S'1450'
+p51
+sa(dp52
+g6
+VJessie J
+p53
+sg8
+S'2517'
+p54
+sa(dp55
+g6
+VNicki Minaj
+p56
+sg8
+S'92'
+p57
+sa(dp58
+g6
+VJohn Legend
+p59
+sg8
+S'365'
+p60
+sa(dp61
+g6
+VKaty Perry
+p62
+sg8
+S'1195'
+p63
+sa(dp64
+g6
+VJuicy J
+p65
+sg8
+S'1073'
+p66
+sa(dp67
+g6
+VLorde
+p68
+sg8
+S'36944'
+p69
+sa(dp70
+g6
+VMAGIC!
+p71
+sg8
+S'188063'
+p72
+sa(dp73
+g6
+VMaroon 5
+p74
+sg8
+S'13539'
+p75
+sa(dp76
+g6
+VMeghan Trainor
+p77
+sg8
+S'201194'
+p78
+sa(dp79
+g6
+VNico & Vinz
+p80
+sg8
+S'207038'
+p81
+sa(dp82
+g6
+VOne Direction
+p83
+sg8
+S'19657'
+p84
+sa(dp85
+g6
+VPassenger
+p86
+sg8
+S'44274'
+p87
+sa(dp88
+g6
+VPharrell Williams
+p89
+sg8
+S'110'
+p90
+sa(dp91
+g6
+VPitbull
+p92
+sg8
+S'628'
+p93
+sa(dp94
+g6
+VKesha
+p95
+sg8
+S'1519'
+p96
+sa(dp97
+g6
+VSam Smith
+p98
+sg8
+S'43383'
+p99
+sa(dp100
+g6
+VTaylor Swift
+p101
+sg8
+S'1177'
+p102
+sa(dp103
+g6
+VTove Lo
+p104
+sg8
+S'127642'
+p105
+sassg3
+S'DJ Earworm'
+p106
+sS'title'
+p107
+S'United State of Pop 2014 (Do What You Wanna Do)'
+p108
+sS'references'
+p109
+(dp110
+sS'artist_id'
+p111
+I190620
+sg8
+I680415
+s.

@@ -1,0 +1,47 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Unapologetic (French Version) '
+p4
+sS'id'
+p5
+I28458
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VFuture
+p11
+sg5
+S'2197'
+p12
+sassg8
+S'RG France Translations'
+p13
+sS'title'
+p14
+S'Rihanna - Loveeeeeee Song ft. Future (French Version)'
+p15
+sS'references'
+p16
+(dp17
+S'song_unannotated'
+p18
+(lp19
+(dp20
+g5
+S'4188'
+p21
+sassS'artist_id'
+p22
+I140856
+sg5
+I118602
+s.

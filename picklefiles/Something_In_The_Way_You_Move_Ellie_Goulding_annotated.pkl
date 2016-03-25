@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Delirium'
+p4
+sS'id'
+p5
+I131217
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Ellie Goulding'
+p9
+sS'title'
+p10
+S'Something In The Way You Move'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I55444
+sg8
+VGreg Kurstin
+p15
+sasS'writers'
+p16
+(lp17
+(dp18
+g5
+I55444
+sg8
+VGreg Kurstin
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I1838
+sg5
+I2325382
+s.

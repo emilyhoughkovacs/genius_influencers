@@ -1,0 +1,46 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Alan Walker'
+p4
+sS'title'
+p5
+S'Faded'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I176051
+sg3
+VIselin Solheim
+p11
+sasS'producers'
+p12
+(lp13
+(dp14
+g10
+I201335
+sg3
+VMood Melodies
+p15
+sa(dp16
+g10
+I176053
+sg3
+VJesper Borgen
+p17
+sasS'references'
+p18
+(dp19
+sS'artist_id'
+p20
+I456537
+sg10
+I2396871
+s.

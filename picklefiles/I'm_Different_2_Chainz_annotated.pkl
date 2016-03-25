@@ -1,0 +1,80 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Based on a T.R.U. Story'
+p4
+sS'id'
+p5
+I19604
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'2 Chainz'
+p9
+sS'title'
+p10
+S"I'm Different"
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I33152
+sg8
+VMike Free
+p15
+sa(dp16
+g5
+I29780
+sg8
+VDJ Mustard
+p17
+sasS'references'
+p18
+(dp19
+S'song_unannotated'
+p20
+(lp21
+(dp22
+g5
+S'28068'
+p23
+sa(dp24
+g5
+S'52561'
+p25
+sasg8
+(lp26
+(dp27
+g3
+VLil Jon
+p28
+sg5
+S'107'
+p29
+sa(dp30
+g3
+VDJ Mustard
+p31
+sg5
+S'29780'
+p32
+sa(dp33
+g3
+VYG
+p34
+sg5
+S'1450'
+p35
+sassS'artist_id'
+p36
+I14325
+sg5
+I82860
+s.

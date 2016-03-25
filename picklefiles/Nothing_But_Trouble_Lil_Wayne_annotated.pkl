@@ -1,0 +1,41 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Lil Wayne'
+p4
+sS'title'
+p5
+S'Nothing But Trouble'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I250301
+sg3
+VCharlie Puth
+p11
+sasS'references'
+p12
+(dp13
+g3
+(lp14
+(dp15
+S'name'
+p16
+VAngela Yee
+p17
+sg10
+S'467293'
+p18
+sassS'artist_id'
+p19
+I4
+sg10
+I2155243
+s.

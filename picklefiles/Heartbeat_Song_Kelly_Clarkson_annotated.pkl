@@ -1,0 +1,99 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Piece By Piece'
+p4
+sS'id'
+p5
+I118882
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'83226'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VJimmy Eat World
+p15
+sg5
+S'17341'
+p16
+sassg12
+S'Kelly Clarkson'
+p17
+sS'title'
+p18
+S'Heartbeat Song'
+p19
+sS'producers'
+p20
+(lp21
+(dp22
+g5
+I418736
+sg12
+VJason Halbert
+p23
+sa(dp24
+g5
+I55444
+sg12
+VGreg Kurstin
+p25
+sasS'writers'
+p26
+(lp27
+(dp28
+g5
+I64758
+sg12
+VAudra Mae
+p29
+sa(dp30
+g5
+I56983
+sg12
+VJason Evigan
+p31
+sa(dp32
+g5
+I51776
+sg12
+VKara DioGuardi
+p33
+sa(dp34
+g5
+I146381
+sg12
+VMitch Allan
+p35
+sasS'references'
+p36
+(dp37
+g8
+(lp38
+(dp39
+g5
+S'198434'
+p40
+sa(dp41
+g5
+S'198560'
+p42
+sassS'artist_id'
+p43
+I11714
+sg5
+I668175
+s.

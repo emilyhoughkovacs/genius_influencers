@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Dreams and Nightmares'
+p4
+sS'id'
+p5
+I21617
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Meek Mill'
+p9
+sS'title'
+p10
+S'Rich & Famous'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I20182
+sg8
+VLouie V
+p15
+sasS'producers'
+p16
+(lp17
+(dp18
+g5
+I17746
+sg8
+VJahlil Beats
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I1319
+sg5
+I93317
+s.

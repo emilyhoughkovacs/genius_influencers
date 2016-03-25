@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S"Salt 'n' pepa with en vogue"
+p4
+sS'title'
+p5
+S'Whatta man - salt-n-pepa feat. en vogue ep version'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I491691
+sS'id'
+p10
+I2124472
+s.

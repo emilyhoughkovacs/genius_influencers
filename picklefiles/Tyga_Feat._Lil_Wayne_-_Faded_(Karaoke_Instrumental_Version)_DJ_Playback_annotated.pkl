@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'DJ Playback'
+p4
+sS'title'
+p5
+S'Tyga Feat. Lil Wayne - Faded (Karaoke Instrumental Version)'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I521176
+sS'id'
+p10
+I2177091
+s.

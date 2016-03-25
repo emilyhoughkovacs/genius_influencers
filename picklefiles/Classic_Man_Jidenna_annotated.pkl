@@ -1,0 +1,77 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S"NOW That's What I Call Music, Vol. 55"
+p4
+sS'id'
+p5
+I133201
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'2147231'
+p11
+sassS'artist'
+p12
+S'Jidenna'
+p13
+sS'title'
+p14
+S'Classic Man'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I330698
+sg12
+VRoman GianArthur
+p19
+sasS'producers'
+p20
+(lp21
+(dp22
+g5
+I330700
+sg12
+VGaetan Rousseau
+p23
+sa(dp24
+g5
+I100717
+sg12
+VNana Kwabena
+p25
+sa(dp26
+g5
+I330699
+sg12
+VNate Rocket Wonder
+p27
+sasS'references'
+p28
+(dp29
+g12
+(lp30
+(dp31
+g3
+VJanelle Monáe
+p32
+sg5
+S'783'
+p33
+sassS'artist_id'
+p34
+I330697
+sg5
+I709741
+s.

@@ -1,0 +1,64 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'x'
+p4
+sS'id'
+p5
+I92635
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VEllie Goulding
+p11
+sg5
+S'1838'
+p12
+sassg8
+S'Ed Sheeran'
+p13
+sS'title'
+p14
+S"Don't"
+p15
+sS'producers'
+p16
+(lp17
+(dp18
+g5
+I28906
+sg8
+VBenny Blanco
+p19
+sa(dp20
+g5
+I27794
+sg8
+VRick Rubin
+p21
+sasS'writers'
+p22
+(lp23
+(dp24
+g5
+I28906
+sg8
+VBenny Blanco
+p25
+sasS'references'
+p26
+(dp27
+sS'artist_id'
+p28
+I12418
+sg5
+I403031
+s.

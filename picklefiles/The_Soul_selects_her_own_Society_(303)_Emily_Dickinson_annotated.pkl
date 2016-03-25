@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S"Ms. Alexander's ENG 250 Class (Fall 2015)"
+p4
+sS'id'
+p5
+I129445
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Emily Dickinson'
+p9
+sS'title'
+p10
+S'The Soul selects her own Society (303)'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I717
+sg5
+I76731
+s.

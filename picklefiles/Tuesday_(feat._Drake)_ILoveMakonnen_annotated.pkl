@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'ILoveMakonnen'
+p4
+sS'title'
+p5
+S'Tuesday (feat. Drake)'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I182049
+sS'id'
+p10
+I2176703
+s.

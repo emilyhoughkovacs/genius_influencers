@@ -1,0 +1,44 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Remy Ma'
+p4
+sS'title'
+p5
+S'Hands Down'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I88
+sg3
+VRick Ross
+p11
+sa(dp12
+g10
+I118
+sg3
+VYo Gotti
+p13
+sasS'references'
+p14
+(dp15
+S'song_unannotated'
+p16
+(lp17
+(dp18
+g10
+S'226914'
+p19
+sassS'artist_id'
+p20
+I2274
+sg10
+I2390346
+s.

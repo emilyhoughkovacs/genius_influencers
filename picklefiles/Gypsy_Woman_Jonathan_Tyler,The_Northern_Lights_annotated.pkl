@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Jonathan Tyler,The Northern Lights'
+p4
+sS'title'
+p5
+S'Gypsy Woman'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I530766
+sS'id'
+p10
+I2228864
+s.

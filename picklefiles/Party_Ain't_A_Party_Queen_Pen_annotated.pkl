@@ -1,0 +1,52 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'My Melody'
+p4
+sS'id'
+p5
+I7837
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Queen Pen'
+p9
+sS'title'
+p10
+S"Party Ain't A Party"
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I9559
+sg8
+VMarkell Riley
+p15
+sa(dp16
+g5
+I2913
+sg8
+VMr. Cheeks
+p17
+sa(dp18
+g5
+I8159
+sg8
+VNutta Butta
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I2597
+sg5
+I38340
+s.

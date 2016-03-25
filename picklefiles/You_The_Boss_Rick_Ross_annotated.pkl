@@ -1,0 +1,55 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Rick Ross'
+p4
+sS'title'
+p5
+S'You The Boss'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I92
+sg3
+VNicki Minaj
+p11
+sasS'references'
+p12
+(dp13
+S'song_unannotated'
+p14
+(lp15
+(dp16
+g10
+S'76346'
+p17
+sasg3
+(lp18
+(dp19
+S'name'
+p20
+VBirdman
+p21
+sg10
+S'86'
+p22
+sa(dp23
+g20
+VNicki Minaj
+p24
+sg10
+S'92'
+p25
+sassS'artist_id'
+p26
+I88
+sg10
+I56776
+s.

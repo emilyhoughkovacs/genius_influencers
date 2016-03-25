@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Weekly Rune Bars'
+p4
+sS'id'
+p5
+I108018
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Regicidal'
+p9
+sS'title'
+p10
+S'Discount Gear'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I204951
+sg5
+I476615
+s.

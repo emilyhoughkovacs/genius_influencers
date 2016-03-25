@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Pink Friday'
+p4
+sS'id'
+p5
+I7158
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Nicki Minaj'
+p9
+sS'title'
+p10
+S'Last Chance'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I1001
+sg8
+VNatasha Bedingfield
+p15
+sasS'producers'
+p16
+(lp17
+(dp18
+g5
+I27675
+sg8
+VDrew Money
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I92
+sg5
+I2082
+s.

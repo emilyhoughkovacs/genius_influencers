@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Black Rebel Motorcycle Club'
+p4
+sS'title'
+p5
+S"Beat The Devil's Tattoo"
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I15202
+sS'id'
+p10
+I399792
+s.

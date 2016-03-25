@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S"Can't Stop The Music"
+p4
+sS'id'
+p5
+I131315
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Village People'
+p9
+sS'title'
+p10
+S'Y.M.C.A.'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I17646
+sg5
+I66467
+s.

@@ -1,0 +1,75 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Ready to Die'
+p4
+sS'id'
+p5
+I7218
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'29383'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VLords of the Underground
+p15
+sg5
+S'5733'
+p16
+sassg12
+S'The Notorious B.I.G.'
+p17
+sS'title'
+p18
+S'Machine Gun Funk'
+p19
+sS'producers'
+p20
+(lp21
+(dp22
+g5
+I5839
+sg12
+VEasy Mo Bee
+p23
+sasS'references'
+p24
+(dp25
+g8
+(lp26
+(dp27
+g5
+S'4228'
+p28
+sa(dp29
+g5
+S'1491'
+p30
+sasg12
+(lp31
+(dp32
+g3
+VJay Z
+p33
+sg5
+S'2'
+p34
+sassS'artist_id'
+p35
+I22
+sg5
+I444
+s.

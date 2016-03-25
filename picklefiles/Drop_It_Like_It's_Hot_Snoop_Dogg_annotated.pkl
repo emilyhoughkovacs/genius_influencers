@@ -1,0 +1,82 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'R&G (Rhythm & Gangsta): The Masterpiece'
+p4
+sS'id'
+p5
+I9351
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'2355'
+p11
+sasS'other'
+p12
+(lp13
+(dp14
+g5
+S'167'
+p15
+sS'title'
+p16
+VGin and Juice
+p17
+sasS'artist'
+p18
+(lp19
+(dp20
+g3
+VLil Wayne
+p21
+sg5
+S'4'
+p22
+sa(dp23
+g3
+VJuvenile
+p24
+sg5
+S'38'
+p25
+sassg18
+S'Snoop Dogg'
+p26
+sg16
+S"Drop It Like It's Hot"
+p27
+sS'featured_artists'
+p28
+(lp29
+(dp30
+g5
+I110
+sg18
+VPharrell Williams
+p31
+sasS'producers'
+p32
+(lp33
+(dp34
+g5
+I4617
+sg18
+VThe Neptunes
+p35
+sasS'references'
+p36
+(dp37
+sS'artist_id'
+p38
+I46
+sg5
+I1113
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Alan Z'
+p4
+sS'title'
+p5
+S'Loyal (Chris Brown Remix)'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I57980
+sS'id'
+p10
+I427939
+s.

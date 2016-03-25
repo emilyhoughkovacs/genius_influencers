@@ -1,0 +1,46 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Lift Your Spirit'
+p4
+sS'id'
+p5
+I78908
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Aloe Blacc'
+p9
+sS'title'
+p10
+S'The Man'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I24741
+sg8
+VDJ Khalil
+p15
+sa(dp16
+g5
+I10179
+sg8
+VDanny Keyz
+p17
+sasS'references'
+p18
+(dp19
+sS'artist_id'
+p20
+I3896
+sg5
+I245249
+s.

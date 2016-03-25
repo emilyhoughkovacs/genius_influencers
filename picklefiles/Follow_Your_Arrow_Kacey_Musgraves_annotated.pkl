@@ -1,0 +1,62 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Same Trailer Different Park'
+p4
+sS'id'
+p5
+I64196
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Kacey Musgraves'
+p9
+sS'title'
+p10
+S'Follow Your Arrow'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I66352
+sg8
+VLuke Laird
+p15
+sasS'writers'
+p16
+(lp17
+(dp18
+g5
+I308175
+sg8
+VBrandy Clark
+p19
+sa(dp20
+g5
+I362690
+sg8
+VShane McAnally
+p21
+sasS'references'
+p22
+(dp23
+S'song_unannotated'
+p24
+(lp25
+(dp26
+g5
+S'130024'
+p27
+sassS'artist_id'
+p28
+I53023
+sg5
+I293841
+s.

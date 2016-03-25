@@ -1,0 +1,46 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Double Vision'
+p4
+sS'id'
+p5
+I126090
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Prince Royce'
+p9
+sS'title'
+p10
+S'Back It Up (Spanish Version)'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I628
+sg8
+VPitbull
+p15
+sa(dp16
+g5
+I2487
+sg8
+VJennifer Lopez
+p17
+sasS'references'
+p18
+(dp19
+sS'artist_id'
+p20
+I13246
+sg5
+I1791444
+s.

@@ -1,0 +1,55 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Blind Melon'
+p4
+sS'id'
+p5
+I20039
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Blind Melon'
+p9
+sS'title'
+p10
+S'No Rain'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I29959
+sg8
+VRick Parashar
+p15
+sasS'writers'
+p16
+(lp17
+(dp18
+g5
+I68734
+sg8
+VBrad Smith
+p19
+sa(dp20
+g5
+I628170
+sg8
+VShannon Hoon
+p21
+sasS'references'
+p22
+(dp23
+sS'artist_id'
+p24
+I631
+sg5
+I1240
+s.

@@ -1,0 +1,53 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'New York: A Love Story'
+p4
+sS'id'
+p5
+I42883
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Mack Wilds'
+p9
+sS'title'
+p10
+S'Own It'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I375
+sg8
+VNe-Yo
+p15
+sa(dp16
+g5
+I27765
+sg8
+VSalaam Remi
+p17
+sasS'references'
+p18
+(dp19
+S'song_unannotated'
+p20
+(lp21
+(dp22
+g5
+S'38631'
+p23
+sassS'artist_id'
+p24
+I66863
+sg5
+I207343
+s.

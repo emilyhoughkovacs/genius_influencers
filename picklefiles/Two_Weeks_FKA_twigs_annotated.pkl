@@ -1,0 +1,67 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'LP1'
+p4
+sS'id'
+p5
+I106550
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VLP1
+p10
+sg5
+S'106550'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VFKA twigs
+p15
+sg5
+S'63636'
+p16
+sassg12
+S'FKA twigs'
+p17
+sS'title'
+p18
+S'Two Weeks'
+p19
+sS'producers'
+p20
+(lp21
+(dp22
+g5
+I27453
+sg12
+VEmile Haynie
+p23
+sasS'writers'
+p24
+(lp25
+(dp26
+g5
+I27453
+sg12
+VEmile Haynie
+p27
+sasS'references'
+p28
+(dp29
+sS'artist_id'
+p30
+I63636
+sg5
+I459948
+s.

@@ -1,0 +1,173 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Fetty Wap '
+p4
+sS'id'
+p5
+I129747
+ssS'description_refs'
+p6
+(dp7
+S'song'
+p8
+(lp9
+(dp10
+S'artist'
+p11
+VFetty Wap
+p12
+sg5
+S'496445'
+p13
+sS'title'
+p14
+VTrap Queen
+p15
+sa(dp16
+g11
+VFetty Wap
+p17
+sg5
+S'496445'
+p18
+sg14
+VTrap Queen
+p19
+sa(dp20
+g11
+VFetty Wap
+p21
+sg5
+S'696428'
+p22
+sg14
+V679
+p23
+sa(dp24
+g11
+VFetty Wap
+p25
+sg5
+S'653082'
+p26
+sg14
+VMy Way
+p27
+sassg11
+S'Fetty Wap'
+p28
+sg14
+S'Again'
+p29
+sS'producers'
+p30
+(lp31
+(dp32
+g5
+I75164
+sg11
+VShy Boogs
+p33
+sa(dp34
+g5
+I137577
+sg11
+VPeoples
+p35
+sasS'references'
+p36
+(dp37
+S'song_unannotated'
+p38
+(lp39
+(dp40
+g5
+S'49616'
+p41
+sa(dp42
+g5
+S'2135788'
+p43
+sasS'other'
+p44
+(lp45
+(dp46
+g5
+S'152626'
+p47
+sg14
+VOn Sight
+p48
+sa(dp49
+g5
+S'496445'
+p50
+sg14
+VTrap Queen
+p51
+sa(dp52
+g5
+S'496445'
+p53
+sg14
+VTrap Queen
+p54
+sa(dp55
+g5
+S'496445'
+p56
+sg14
+VTrap Queen
+p57
+sasg8
+(lp58
+(dp59
+g11
+VFetty Wap
+p60
+sg5
+S'496445'
+p61
+sg14
+VTrap Queen
+p62
+sa(dp63
+g11
+VFetty Wap
+p64
+sg5
+S'496445'
+p65
+sg14
+VTrap Queen
+p66
+sa(dp67
+g11
+VFetty Wap
+p68
+sg5
+S'496445'
+p69
+sg14
+VTrap Queen
+p70
+sa(dp71
+g11
+VFetty Wap
+p72
+sg5
+S'496445'
+p73
+sg14
+VTrap Queen
+p74
+sassS'artist_id'
+p75
+I216609
+sg5
+I707870
+s.

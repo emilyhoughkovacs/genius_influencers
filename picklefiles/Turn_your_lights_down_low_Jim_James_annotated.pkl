@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Jim James'
+p4
+sS'title'
+p5
+S'Turn your lights down low'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I67698
+sS'id'
+p10
+I1995564
+s.

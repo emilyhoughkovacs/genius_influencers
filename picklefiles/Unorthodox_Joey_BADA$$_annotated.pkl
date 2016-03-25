@@ -1,0 +1,56 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Summer Knights'
+p4
+sS'id'
+p5
+I34784
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VJoey BADA$$
+p11
+sg5
+S'18047'
+p12
+sa(dp13
+g3
+VDJ Premier
+p14
+sg5
+S'2260'
+p15
+sassg8
+S'Joey BADA$$'
+p16
+sS'title'
+p17
+S'Unorthodox'
+p18
+sS'producers'
+p19
+(lp20
+(dp21
+g5
+I2260
+sg8
+VDJ Premier
+p22
+sasS'references'
+p23
+(dp24
+sS'artist_id'
+p25
+I18047
+sg5
+I107655
+s.

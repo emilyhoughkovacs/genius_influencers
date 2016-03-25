@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'SremmLife'
+p4
+sS'id'
+p5
+I116274
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Rae Sremmurd'
+p9
+sS'title'
+p10
+S'Come Get Her'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I29978
+sg8
+VMike WiLL Made It
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I177756
+sg5
+I637994
+s.

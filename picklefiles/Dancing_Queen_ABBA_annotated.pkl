@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'The Definitive Collection'
+p4
+sS'id'
+p5
+I129597
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'ABBA'
+p9
+sS'title'
+p10
+S'Dancing Queen'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I33385
+sg5
+I395791
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Caught a Ghost'
+p4
+sS'title'
+p5
+S'No Sugar in My Coffee'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I278446
+sS'id'
+p10
+I1850256
+s.

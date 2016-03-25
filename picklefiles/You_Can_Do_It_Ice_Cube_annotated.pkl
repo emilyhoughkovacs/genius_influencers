@@ -1,0 +1,55 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'War and Peace Vol. 2 (The Peace Disc)'
+p4
+sS'id'
+p5
+I3746
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Ice Cube'
+p9
+sS'title'
+p10
+S'You Can Do It'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I4467
+sg8
+VMs. Toi
+p15
+sa(dp16
+g5
+I1880
+sg8
+VMack 10
+p17
+sasS'producers'
+p18
+(lp19
+(dp20
+g5
+I8132
+sg8
+VOne Eye
+p21
+sasS'references'
+p22
+(dp23
+sS'artist_id'
+p24
+I186
+sg5
+I23070
+s.

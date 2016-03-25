@@ -1,0 +1,54 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Lazaretto'
+p4
+sS'id'
+p5
+I90994
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Jack White'
+p9
+sS'title'
+p10
+S'High Ball Stepper'
+p11
+sS'references'
+p12
+(dp13
+S'song_unannotated'
+p14
+(lp15
+(dp16
+g5
+S'332265'
+p17
+sasg8
+(lp18
+(dp19
+g3
+VKanye West
+p20
+sg5
+S'72'
+p21
+sa(dp22
+g3
+VDaft Punk
+p23
+sg5
+S'13585'
+p24
+sassS'artist_id'
+p25
+I12459
+sg5
+I393899
+s.

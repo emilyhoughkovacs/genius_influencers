@@ -1,0 +1,110 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Furious 7 - Original Motion Picture Soundtrack'
+p4
+sS'id'
+p5
+I121992
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'706106'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VIggy Azalea
+p15
+sg5
+S'14598'
+p16
+sassg12
+S'Wiz Khalifa'
+p17
+sS'title'
+p18
+S'See You Again'
+p19
+sS'featured_artists'
+p20
+(lp21
+(dp22
+g5
+I250301
+sg12
+VCharlie Puth
+p23
+sasS'producers'
+p24
+(lp25
+(dp26
+g5
+I527630
+sg12
+VAndrew Cedar
+p27
+sa(dp28
+g5
+I250301
+sg12
+VCharlie Puth
+p29
+sa(dp30
+g5
+I27435
+sg12
+VDJ Frank E
+p31
+sasS'writers'
+p32
+(lp33
+(dp34
+g5
+I527630
+sg12
+VAndrew Cedar
+p35
+sa(dp36
+g5
+I250301
+sg12
+VCharlie Puth
+p37
+sasS'references'
+p38
+(dp39
+g1
+(lp40
+(dp41
+g3
+VKush & Orange Juice
+p42
+sg5
+S'11206'
+p43
+sasg12
+(lp44
+(dp45
+g3
+VDJ Frank E
+p46
+sg5
+S'27435'
+p47
+sassS'artist_id'
+p48
+I310
+sg5
+I720401
+s.

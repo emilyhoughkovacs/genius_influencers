@@ -1,0 +1,143 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'If You Ever Think I Will Stop Going In, Ask Double R'
+p4
+sS'id'
+p5
+I123757
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'147191'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VYoung Thug
+p15
+sg5
+S'20503'
+p16
+sassg12
+S'Rich Homie Quan'
+p17
+sS'title'
+p18
+S'Flex (Ooh, Ooh, Ooh)'
+p19
+sS'producers'
+p20
+(lp21
+(dp22
+g5
+I37762
+sg12
+VNitti
+p23
+sa(dp24
+g5
+I27511
+sg12
+VDJ Spinz
+p25
+sasS'writers'
+p26
+(lp27
+(dp28
+g5
+I576083
+sg12
+VChadron Moore
+p29
+sa(dp30
+g5
+I576082
+sg12
+VGary Hill
+p31
+sasS'references'
+p32
+(dp33
+g8
+(lp34
+(dp35
+g5
+S'160321'
+p36
+sasS'other'
+p37
+(lp38
+(dp39
+g5
+S'1341'
+p40
+sg18
+VExcuse Me Miss
+p41
+sa(dp42
+g5
+S'54'
+p43
+sg18
+VHate
+p44
+sa(dp45
+g5
+S'42948'
+p46
+sg18
+VG Funk Intro
+p47
+sasg12
+(lp48
+(dp49
+g3
+VRich Homie Quan
+p50
+sg5
+S'24823'
+p51
+sa(dp52
+g3
+VYoung Thug
+p53
+sg5
+S'20503'
+p54
+sa(dp55
+g3
+VYoung Dolph
+p56
+sg5
+S'22437'
+p57
+sasS'song'
+p58
+(lp59
+(dp60
+g12
+VFetty Wap
+p61
+sg5
+S'496445'
+p62
+sg18
+VTrap Queen
+p63
+sassS'artist_id'
+p64
+I24823
+sg5
+I658724
+s.

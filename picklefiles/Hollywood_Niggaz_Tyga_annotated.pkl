@@ -1,0 +1,103 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'The Gold Album: 18th Dynasty'
+p4
+sS'id'
+p5
+I49151
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VChris Brown
+p11
+sg5
+S'438'
+p12
+sa(dp13
+g3
+VTyga
+p14
+sg5
+S'554'
+p15
+sassg8
+S'Tyga'
+p16
+sS'title'
+p17
+S'Hollywood Niggaz'
+p18
+sS'producers'
+p19
+(lp20
+(dp21
+g5
+I41861
+sg8
+VJess Jackson
+p22
+sasS'references'
+p23
+(dp24
+S'song_unannotated'
+p25
+(lp26
+(dp27
+g5
+S'1267'
+p28
+sasS'other'
+p29
+(lp30
+(dp31
+g5
+S'324'
+p32
+sg17
+VWhat's the Difference
+p33
+sa(dp34
+g5
+S'386111'
+p35
+sg17
+VLoyal (Remix)
+p36
+sasg8
+(lp37
+(dp38
+g3
+VDr. Dre
+p39
+sg5
+S'123'
+p40
+sa(dp41
+g3
+VKanye West
+p42
+sg5
+S'72'
+p43
+sa(dp44
+g3
+VChris Brown
+p45
+sg5
+S'438'
+p46
+sassS'artist_id'
+p47
+I554
+sg5
+I1869407
+s.

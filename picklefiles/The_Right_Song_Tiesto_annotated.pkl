@@ -1,0 +1,37 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Tiesto'
+p4
+sS'title'
+p5
+S'The Right Song'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I178168
+sg3
+VOliver Heldens
+p11
+sa(dp12
+g10
+I298881
+sg3
+VNatalie La Rose
+p13
+sasS'references'
+p14
+(dp15
+sS'artist_id'
+p16
+I57059
+sg10
+I2409162
+s.

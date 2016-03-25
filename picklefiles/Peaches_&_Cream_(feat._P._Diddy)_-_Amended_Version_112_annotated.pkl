@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'112'
+p4
+sS'title'
+p5
+S'Peaches & Cream (feat. P. Diddy) - Amended Version'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I504
+sS'id'
+p10
+I1943366
+s.

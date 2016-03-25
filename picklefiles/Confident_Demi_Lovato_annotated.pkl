@@ -1,0 +1,61 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Confident '
+p4
+sS'id'
+p5
+I130936
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Demi Lovato'
+p9
+sS'title'
+p10
+S'Confident'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I302825
+sg8
+VIlya Salmanzadeh
+p15
+sasS'writers'
+p16
+(lp17
+(dp18
+g5
+I302825
+sg8
+VIlya Salmanzadeh
+p19
+sa(dp20
+g5
+I27835
+sg8
+VMax Martin
+p21
+sa(dp22
+g5
+I179206
+sg8
+VSavan Kotecha
+p23
+sasS'references'
+p24
+(dp25
+sS'artist_id'
+p26
+I13531
+sg5
+I2275954
+s.

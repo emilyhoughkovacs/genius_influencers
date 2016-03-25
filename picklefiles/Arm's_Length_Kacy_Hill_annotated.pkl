@@ -1,0 +1,82 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Bloo EP'
+p4
+sS'id'
+p5
+I130895
+ssS'description_refs'
+p6
+(dp7
+S'song'
+p8
+(lp9
+(dp10
+S'artist'
+p11
+VKanye West
+p12
+sg5
+S'158615'
+p13
+sS'title'
+p14
+VBound 2
+p15
+sa(dp16
+g11
+VSam Smith
+p17
+sg5
+S'387414'
+p18
+sg14
+VStay With Me
+p19
+sasg11
+(lp20
+(dp21
+g3
+VTourist
+p22
+sg5
+S'173136'
+p23
+sassg11
+S'Kacy Hill'
+p24
+sg14
+S"Arm's Length"
+p25
+sS'references'
+p26
+(dp27
+S'song_unannotated'
+p28
+(lp29
+(dp30
+g5
+S'79591'
+p31
+sasg8
+(lp32
+(dp33
+g11
+VKanye West
+p34
+sg5
+S'158615'
+p35
+sg14
+VBound 2
+p36
+sassS'artist_id'
+p37
+I289457
+sg5
+I2325471
+s.

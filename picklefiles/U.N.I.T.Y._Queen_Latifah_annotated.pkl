@@ -1,0 +1,46 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Black Reign'
+p4
+sS'id'
+p5
+I7816
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Queen Latifah'
+p9
+sS'title'
+p10
+S'U.N.I.T.Y.'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I52115
+sg8
+VKay Gee
+p15
+sa(dp16
+g5
+I35083
+sg8
+VMufi
+p17
+sasS'references'
+p18
+(dp19
+sS'artist_id'
+p20
+I3443
+sg5
+I38270
+s.

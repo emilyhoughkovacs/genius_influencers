@@ -1,0 +1,53 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Walking With a Panther'
+p4
+sS'id'
+p5
+I5089
+ssS'description_refs'
+p6
+(dp7
+S'song'
+p8
+(lp9
+(dp10
+S'artist'
+p11
+VLL Cool J
+p12
+sg5
+S'28995'
+p13
+sS'title'
+p14
+VI Need Love
+p15
+sassg11
+S'LL Cool J'
+p16
+sg14
+S'Going Back to Cali'
+p17
+sS'producers'
+p18
+(lp19
+(dp20
+g5
+I27794
+sg11
+VRick Rubin
+p21
+sasS'references'
+p22
+(dp23
+sS'artist_id'
+p24
+I848
+sg5
+I29066
+s.

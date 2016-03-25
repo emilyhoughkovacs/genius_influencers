@@ -1,0 +1,70 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'8701'
+p4
+sS'id'
+p5
+I6156
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VJermaine Dupri
+p11
+sg5
+S'3264'
+p12
+sassg8
+S'Usher'
+p13
+sS'title'
+p14
+S'U Got It Bad'
+p15
+sS'producers'
+p16
+(lp17
+(dp18
+g5
+I3264
+sg8
+VJermaine Dupri
+p19
+sa(dp20
+g5
+I30599
+sg8
+VBryan-Michael Cox
+p21
+sasS'writers'
+p22
+(lp23
+(dp24
+g5
+I30599
+sg8
+VBryan-Michael Cox
+p25
+sa(dp26
+g5
+I3264
+sg8
+VJermaine Dupri
+p27
+sasS'references'
+p28
+(dp29
+sS'artist_id'
+p30
+I132
+sg5
+I2196
+s.

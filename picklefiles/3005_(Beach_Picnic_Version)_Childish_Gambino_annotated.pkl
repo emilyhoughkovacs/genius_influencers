@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'STN MTN / Kauai'
+p4
+sS'id'
+p5
+I112997
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Childish Gambino'
+p9
+sS'title'
+p10
+S'3005 (Beach Picnic Version)'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I1745
+sg5
+I530356
+s.

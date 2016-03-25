@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Are You Gonna Go My Way'
+p4
+sS'id'
+p5
+I100607
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Lenny Kravitz'
+p9
+sS'title'
+p10
+S'Are You Gonna Go My Way'
+p11
+sS'writers'
+p12
+(lp13
+(dp14
+g5
+I550235
+sg8
+VCraig Ross
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I3329
+sg5
+I357695
+s.

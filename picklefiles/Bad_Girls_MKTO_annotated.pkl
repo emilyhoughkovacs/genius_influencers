@@ -1,0 +1,108 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Bad Girls EP'
+p4
+sS'id'
+p5
+I128040
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VMKTO
+p11
+sg5
+S'37434'
+p12
+sassg8
+S'MKTO'
+p13
+sS'title'
+p14
+S'Bad Girls'
+p15
+sS'writers'
+p16
+(lp17
+(dp18
+g5
+I423222
+sg8
+VTony Oller
+p19
+sa(dp20
+g5
+I423221
+sg8
+VMalcolm Kelley
+p21
+sa(dp22
+g5
+I423220
+sg8
+VEvan Bogart
+p23
+sa(dp24
+g5
+I338751
+sg8
+VClarence Coffee Jr
+p25
+sa(dp26
+g5
+I68667
+sg8
+VAndrew "Goldstein" Goldstein
+p27
+sa(dp28
+g5
+I418951
+sg8
+VLindy Robbins
+p29
+sasS'references'
+p30
+(dp31
+g1
+(lp32
+(dp33
+g3
+VBad Girls
+p34
+sg5
+S'111546'
+p35
+sasS'song_unannotated'
+p36
+(lp37
+(dp38
+g5
+S'509097'
+p39
+sa(dp40
+g5
+S'513277'
+p41
+sasg8
+(lp42
+(dp43
+g3
+VDonna Summer
+p44
+sg5
+S'223454'
+p45
+sassS'artist_id'
+p46
+I37434
+sg5
+I1891103
+s.

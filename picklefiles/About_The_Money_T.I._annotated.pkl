@@ -1,0 +1,72 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Paperwork: The Motion Picture'
+p4
+sS'id'
+p5
+I108787
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VT.I.
+p11
+sg5
+S'85'
+p12
+sa(dp13
+g3
+VYoung Thug
+p14
+sg5
+S'20503'
+p15
+sa(dp16
+g3
+VYoung Thug
+p17
+sg5
+S'20503'
+p18
+sassg8
+S'T.I.'
+p19
+sS'title'
+p20
+S'About The Money'
+p21
+sS'featured_artists'
+p22
+(lp23
+(dp24
+g5
+I20503
+sg8
+VYoung Thug
+p25
+sasS'producers'
+p26
+(lp27
+(dp28
+g5
+I44575
+sg8
+VLondon On Da Track
+p29
+sasS'references'
+p30
+(dp31
+sS'artist_id'
+p32
+I85
+sg5
+I433098
+s.

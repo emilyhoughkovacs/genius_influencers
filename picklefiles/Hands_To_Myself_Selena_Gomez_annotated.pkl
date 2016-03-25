@@ -1,0 +1,119 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Revival'
+p4
+sS'id'
+p5
+I127998
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VRevival
+p10
+sg5
+S'127998'
+p11
+sasS'song_unannotated'
+p12
+(lp13
+(dp14
+g5
+S'4075'
+p15
+sasS'artist'
+p16
+(lp17
+(dp18
+g3
+VPixies
+p19
+sg5
+S'1787'
+p20
+sassg16
+S'Selena Gomez'
+p21
+sS'title'
+p22
+S'Hands To Myself'
+p23
+sS'producers'
+p24
+(lp25
+(dp26
+g5
+I8089
+sg16
+VDa Robin
+p27
+sa(dp28
+g5
+I53799
+sg16
+VMatt Man
+p29
+sa(dp30
+g5
+I27835
+sg16
+VMax Martin
+p31
+sasS'writers'
+p32
+(lp33
+(dp34
+g5
+I8089
+sg16
+VDa Robin
+p35
+sa(dp36
+g5
+I53799
+sg16
+VMatt Man
+p37
+sa(dp38
+g5
+I409511
+sg16
+VJustin Tranter
+p39
+sa(dp40
+g5
+I409643
+sg16
+VJulia Michaels
+p41
+sa(dp42
+g5
+I27835
+sg16
+VMax Martin
+p43
+sasS'references'
+p44
+(dp45
+g16
+(lp46
+(dp47
+g3
+VJustin Tranter
+p48
+sg5
+S'409511'
+p49
+sassS'artist_id'
+p50
+I45372
+sg5
+I2296914
+s.

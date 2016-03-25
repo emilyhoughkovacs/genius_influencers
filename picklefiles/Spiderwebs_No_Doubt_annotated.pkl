@@ -1,0 +1,64 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Tragic Kingdom'
+p4
+sS'id'
+p5
+I43506
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VNo Doubt
+p11
+sg5
+S'24421'
+p12
+sassg8
+S'No Doubt'
+p13
+sS'title'
+p14
+S'Spiderwebs'
+p15
+sS'producers'
+p16
+(lp17
+(dp18
+g5
+I151884
+sg8
+VMatthew Wilder
+p19
+sasS'writers'
+p20
+(lp21
+(dp22
+g5
+I169130
+sg8
+VTony Kanal
+p23
+sa(dp24
+g5
+I1893
+sg8
+VGwen Stefani
+p25
+sasS'references'
+p26
+(dp27
+sS'artist_id'
+p28
+I24421
+sg5
+I210364
+s.

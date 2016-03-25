@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'The House that Dirt Built'
+p4
+sS'id'
+p5
+I98013
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'The Heavy'
+p9
+sS'title'
+p10
+S'Short Change Hero'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I54951
+sg5
+I414018
+s.

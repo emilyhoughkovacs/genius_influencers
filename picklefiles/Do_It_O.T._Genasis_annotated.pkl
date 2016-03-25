@@ -1,0 +1,81 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Rhythm & Bricks'
+p4
+sS'id'
+p5
+I131546
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VLil Wayne
+p11
+sg5
+S'4'
+p12
+sa(dp13
+g3
+VO.T. Genasis
+p14
+sg5
+S'154225'
+p15
+sa(dp16
+g3
+VMr. Hanky
+p17
+sg5
+S'54884'
+p18
+sassg8
+S'O.T. Genasis'
+p19
+sS'title'
+p20
+S'Do It'
+p21
+sS'featured_artists'
+p22
+(lp23
+(dp24
+g5
+I4
+sg8
+VLil Wayne
+p25
+sasS'producers'
+p26
+(lp27
+(dp28
+g5
+I54884
+sg8
+VMr. Hanky
+p29
+sasS'references'
+p30
+(dp31
+g8
+(lp32
+(dp33
+g3
+VO.T. Genasis
+p34
+sg5
+S'154225'
+p35
+sassS'artist_id'
+p36
+I154225
+sg5
+I2142915
+s.

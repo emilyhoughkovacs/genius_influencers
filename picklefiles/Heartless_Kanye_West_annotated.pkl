@@ -1,0 +1,52 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'808s & Heartbreak'
+p4
+sS'id'
+p5
+I4339
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Kanye West'
+p9
+sS'title'
+p10
+S'Heartless'
+p11
+sS'writers'
+p12
+(lp13
+(dp14
+g5
+I4709
+sg8
+VNo I.D.
+p15
+sa(dp16
+g5
+I5454
+sg8
+VMalik Yusef
+p17
+sa(dp18
+g5
+I68
+sg8
+VKid Cudi
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I72
+sg5
+I526
+s.

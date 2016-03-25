@@ -1,0 +1,72 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'This Is What the Truth Feels Like'
+p4
+sS'id'
+p5
+I113812
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VPharrell Williams
+p11
+sg5
+S'110'
+p12
+sassg8
+S'Gwen Stefani'
+p13
+sS'title'
+p14
+S"Baby Don't Lie"
+p15
+sS'producers'
+p16
+(lp17
+(dp18
+g5
+I28906
+sg8
+VBenny Blanco
+p19
+sa(dp20
+g5
+I1653
+sg8
+VRyan Tedder
+p21
+sasS'references'
+p22
+(dp23
+S'song_unannotated'
+p24
+(lp25
+(dp26
+g5
+S'422973'
+p27
+sasS'other'
+p28
+(lp29
+(dp30
+g5
+S'409505'
+p31
+sg14
+V4 In The Morning
+p32
+sassS'artist_id'
+p33
+I1893
+sg5
+I520237
+s.

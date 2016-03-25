@@ -1,0 +1,136 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'JEKYLL + HYDE'
+p4
+sS'id'
+p5
+I121403
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VZac Brown Band
+p11
+sg5
+S'22928'
+p12
+sa(dp13
+g3
+VChris Cornell
+p14
+sg5
+S'18435'
+p15
+sa(dp16
+g3
+VSaturday Night Live
+p17
+sg5
+S'179296'
+p18
+sassg8
+S'Zac Brown Band'
+p19
+sS'title'
+p20
+S'Heavy Is the Head'
+p21
+sS'featured_artists'
+p22
+(lp23
+(dp24
+g5
+I18435
+sg8
+VChris Cornell
+p25
+sasS'producers'
+p26
+(lp27
+(dp28
+g5
+I355969
+sg8
+VDarrell Scott
+p29
+sa(dp30
+g5
+I419083
+sg8
+VIn the Arena Productions
+p31
+sasS'writers'
+p32
+(lp33
+(dp34
+g5
+I419082
+sg8
+VJohn Driskell Hopkins
+p35
+sa(dp36
+g5
+I355969
+sg8
+VDarrell Scott
+p37
+sa(dp38
+g5
+I419081
+sg8
+VJimmy De Martini
+p39
+sa(dp40
+g5
+I419080
+sg8
+VWyatt Durrette
+p41
+sa(dp42
+g5
+I43770
+sg8
+VZac Brown
+p43
+sa(dp44
+g5
+I419079
+sg8
+VNiko Moon
+p45
+sasS'references'
+p46
+(dp47
+S'song_unannotated'
+p48
+(lp49
+(dp50
+g5
+S'93409'
+p51
+sa(dp52
+g5
+S'21248'
+p53
+sa(dp54
+g5
+S'108068'
+p55
+sa(dp56
+g5
+S'510'
+p57
+sassS'artist_id'
+p58
+I22928
+sg5
+I722296
+s.

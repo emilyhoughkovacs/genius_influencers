@@ -1,0 +1,54 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+S'song'
+p3
+(lp4
+(dp5
+S'artist'
+p6
+VEminem
+p7
+sS'id'
+p8
+S'576535'
+p9
+sS'title'
+p10
+VDetroit Vs Everybody
+p11
+sassg6
+S'DeJ Loaf'
+p12
+sg10
+S'Try Me'
+p13
+sS'producers'
+p14
+(lp15
+(dp16
+g8
+I222358
+sg6
+VDDS
+p17
+sasS'references'
+p18
+(dp19
+g6
+(lp20
+(dp21
+S'name'
+p22
+VAlicia Keys
+p23
+sg8
+S'362'
+p24
+sassS'artist_id'
+p25
+I222357
+sg8
+I506641
+s.

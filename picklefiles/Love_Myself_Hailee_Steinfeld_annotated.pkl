@@ -1,0 +1,109 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'HAIZ'
+p4
+sS'id'
+p5
+I134606
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'1866151'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VJulia Michaels
+p15
+sg5
+S'409643'
+p16
+sa(dp17
+g3
+VCaptain Cuts
+p18
+sg5
+S'340374'
+p19
+sa(dp20
+g3
+VFuturistiks
+p21
+sg5
+S'31695'
+p22
+sassg12
+S'Hailee Steinfeld'
+p23
+sS'title'
+p24
+S'Love Myself'
+p25
+sS'producers'
+p26
+(lp27
+(dp28
+g5
+I8089
+sg12
+VDa Robin
+p29
+sa(dp30
+g5
+I31695
+sg12
+VFuturistiks
+p31
+sa(dp32
+g5
+I53799
+sg12
+VMatt Man
+p33
+sa(dp34
+g5
+I422875
+sg12
+VHarvey Mason Jr.
+p35
+sa(dp36
+g5
+I340374
+sg12
+VCaptain Cuts
+p37
+sasS'writers'
+p38
+(lp39
+(dp40
+g5
+I409511
+sg12
+VJustin Tranter
+p41
+sa(dp42
+g5
+I409643
+sg12
+VJulia Michaels
+p43
+sasS'references'
+p44
+(dp45
+sS'artist_id'
+p46
+I547449
+sg5
+I2275494
+s.

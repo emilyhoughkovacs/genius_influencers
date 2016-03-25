@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Shmurda She Wrote'
+p4
+sS'id'
+p5
+I113527
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Bobby Shmurda'
+p9
+sS'title'
+p10
+S'Hot Nigga'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I17746
+sg8
+VJahlil Beats
+p15
+sasS'references'
+p16
+(dp17
+g8
+(lp18
+(dp19
+g3
+VWiz Khalifa
+p20
+sg5
+S'310'
+p21
+sassS'artist_id'
+p22
+I197731
+sg5
+I466028
+s.

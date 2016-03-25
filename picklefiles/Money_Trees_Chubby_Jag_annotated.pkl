@@ -1,0 +1,46 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Hell Week (Reloaded)'
+p4
+sS'id'
+p5
+I29678
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'90475'
+p11
+sa(dp12
+g5
+S'18377'
+p13
+sa(dp14
+g5
+S'65722'
+p15
+sassS'artist'
+p16
+S'Chubby Jag'
+p17
+sS'title'
+p18
+S'Money Trees'
+p19
+sS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I29384
+sg5
+I414099
+s.

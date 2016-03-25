@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Bad As I Wanna B'
+p4
+sS'id'
+p5
+I5532
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'MC Lyte'
+p9
+sS'title'
+p10
+S'Cold Rock a Party'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I42117
+sg8
+VRashad Smith
+p15
+sasS'references'
+p16
+(dp17
+g8
+(lp18
+(dp19
+g3
+VRun-D.M.C.
+p20
+sg5
+S'1124'
+p21
+sassS'artist_id'
+p22
+I2048
+sg5
+I30941
+s.

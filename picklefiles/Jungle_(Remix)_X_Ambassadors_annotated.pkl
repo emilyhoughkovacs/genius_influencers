@@ -1,0 +1,56 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'X Ambassadors'
+p4
+sS'title'
+p5
+S'Jungle (Remix)'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I84975
+sg3
+VJamie N Commons
+p11
+sa(dp12
+g10
+I2
+sg3
+VJay Z
+p13
+sasS'references'
+p14
+(dp15
+S'song_unannotated'
+p16
+(lp17
+(dp18
+g10
+S'135'
+p19
+sa(dp20
+g10
+S'772'
+p21
+sa(dp22
+g10
+S'167267'
+p23
+sa(dp24
+g10
+S'306279'
+p25
+sassS'artist_id'
+p26
+I51666
+sg10
+I451958
+s.

@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'The 48 Hunnid Project'
+p4
+sS'id'
+p5
+I127806
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Chevy Woods'
+p9
+sS'title'
+p10
+S'All Said And Done'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I222357
+sg8
+VDeJ Loaf
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I1818
+sg5
+I2171992
+s.

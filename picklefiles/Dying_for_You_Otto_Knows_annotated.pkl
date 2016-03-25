@@ -1,0 +1,37 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Otto Knows'
+p4
+sS'title'
+p5
+S'Dying for You'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I630988
+sg3
+VAlex Aris
+p11
+sa(dp12
+g10
+I161150
+sg3
+VLindsey Stirling
+p13
+sasS'references'
+p14
+(dp15
+sS'artist_id'
+p16
+I361102
+sg10
+I2408122
+s.

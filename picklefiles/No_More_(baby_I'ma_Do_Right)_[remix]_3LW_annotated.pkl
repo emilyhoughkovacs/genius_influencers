@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'3LW'
+p4
+sS'title'
+p5
+S"No More (baby I'ma Do Right) [remix]"
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I2233
+sS'id'
+p10
+I1637950
+s.

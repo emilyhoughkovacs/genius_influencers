@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Ooooooohhh... On the TLC Tip'
+p4
+sS'id'
+p5
+I9991
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'TLC'
+p9
+sS'title'
+p10
+S'What About Your Friends'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I964
+sg5
+I45643
+s.

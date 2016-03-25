@@ -1,0 +1,70 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Irv Gotti Presents: The Inc.'
+p4
+sS'id'
+p5
+I29923
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VCraig Mack
+p11
+sg5
+S'1111'
+p12
+sassg8
+S'Jennifer Lopez'
+p13
+sS'title'
+p14
+S"Ain't it Funny (Remix)"
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I8558
+sg8
+VCadillac Tah
+p19
+sa(dp20
+g5
+I183
+sg8
+VJa Rule
+p21
+sasS'producers'
+p22
+(lp23
+(dp24
+g5
+I21682
+sg8
+VChannel 7
+p25
+sa(dp26
+g5
+I9768
+sg8
+VIrv Gotti
+p27
+sasS'references'
+p28
+(dp29
+sS'artist_id'
+p30
+I2487
+sg5
+I38978
+s.

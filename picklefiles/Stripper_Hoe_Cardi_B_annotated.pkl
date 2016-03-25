@@ -1,0 +1,47 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Gangsta Bitch Music Vol. 1 '
+p4
+sS'id'
+p5
+I145649
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Cardi B'
+p9
+sS'title'
+p10
+S'Stripper Hoe'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I594775
+sg8
+VSwiftOnDemand
+p15
+sasS'references'
+p16
+(dp17
+S'song_unannotated'
+p18
+(lp19
+(dp20
+g5
+S'2145913'
+p21
+sassS'artist_id'
+p22
+I621678
+sg5
+I2433598
+s.

@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S"Introducing the Hardline According to Terence Trent D'Arby"
+p4
+sS'id'
+p5
+I144509
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S"Terence Trent D'Arby"
+p9
+sS'title'
+p10
+S'Wishing Well'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I344608
+sg5
+I1365667
+s.

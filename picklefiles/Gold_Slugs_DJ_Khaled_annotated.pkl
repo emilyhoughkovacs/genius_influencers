@@ -1,0 +1,121 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'I Changed A Lot'
+p4
+sS'id'
+p5
+I98449
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VAugust Alsina
+p11
+sg5
+S'25418'
+p12
+sa(dp13
+g3
+VChris Brown
+p14
+sg5
+S'438'
+p15
+sa(dp16
+g3
+VFetty Wap
+p17
+sg5
+S'216609'
+p18
+sassg8
+S'DJ Khaled'
+p19
+sS'title'
+p20
+S'Gold Slugs'
+p21
+sS'featured_artists'
+p22
+(lp23
+(dp24
+g5
+I438
+sg8
+VChris Brown
+p25
+sa(dp26
+g5
+I25418
+sg8
+VAugust Alsina
+p27
+sa(dp28
+g5
+I216609
+sg8
+VFetty Wap
+p29
+sasS'references'
+p30
+(dp31
+S'song_unannotated'
+p32
+(lp33
+(dp34
+g5
+S'9369'
+p35
+sasg8
+(lp36
+(dp37
+g3
+VChris Brown
+p38
+sg5
+S'438'
+p39
+sa(dp40
+g3
+VKanye West
+p41
+sg5
+S'72'
+p42
+sasS'song'
+p43
+(lp44
+(dp45
+g8
+VDJ Khaled
+p46
+sg5
+S'493169'
+p47
+sg20
+VHold You Down
+p48
+sa(dp49
+g8
+VFetty Wap
+p50
+sg5
+S'496445'
+p51
+sg20
+VTrap Queen
+p52
+sassS'artist_id'
+p53
+I158
+sg5
+I2328394
+s.

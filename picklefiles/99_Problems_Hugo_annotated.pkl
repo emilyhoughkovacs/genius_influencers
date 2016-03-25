@@ -1,0 +1,53 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Old Tyme Religion'
+p4
+sS'id'
+p5
+I69075
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Hugo'
+p9
+sS'title'
+p10
+S'99 Problems'
+p11
+sS'references'
+p12
+(dp13
+g8
+(lp14
+(dp15
+g3
+VJay Z
+p16
+sg5
+S'2'
+p17
+sasS'song'
+p18
+(lp19
+(dp20
+g8
+VJay Z
+p21
+sg5
+S'497'
+p22
+sg10
+V99 Problems
+p23
+sassS'artist_id'
+p24
+I43439
+sg5
+I312444
+s.

@@ -1,0 +1,65 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Cole World: The Sideline Story'
+p4
+sS'id'
+p5
+I11280
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'J. Cole'
+p9
+sS'title'
+p10
+S'Mr Nice Watch'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I2
+sg8
+VJay Z
+p15
+sasS'writers'
+p16
+(lp17
+(dp18
+g5
+I2
+sg8
+VJay Z
+p19
+sasS'references'
+p20
+(dp21
+g8
+(lp22
+(dp23
+g3
+VJ. Cole
+p24
+sg5
+S'69'
+p25
+sa(dp26
+g3
+VJ. Cole
+p27
+sg5
+S'69'
+p28
+sassS'artist_id'
+p29
+I69
+sg5
+I54967
+s.

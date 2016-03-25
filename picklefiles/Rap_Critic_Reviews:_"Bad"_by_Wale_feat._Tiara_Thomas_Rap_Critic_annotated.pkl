@@ -1,0 +1,29 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Rap Critic'
+p4
+sS'title'
+p5
+S'Rap Critic Reviews: "Bad" by Wale feat. Tiara Thomas'
+p6
+sS'references'
+p7
+(dp8
+S'song_unannotated'
+p9
+(lp10
+(dp11
+S'id'
+p12
+S'28580'
+p13
+sassS'artist_id'
+p14
+I61312
+sg12
+I192545
+s.

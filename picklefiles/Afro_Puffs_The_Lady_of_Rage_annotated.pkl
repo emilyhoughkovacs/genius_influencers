@@ -1,0 +1,64 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Death Row Greatest Hits'
+p4
+sS'id'
+p5
+I145201
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VThe Lady of Rage
+p11
+sg5
+S'627'
+p12
+sassg8
+S'The Lady of Rage'
+p13
+sS'title'
+p14
+S'Afro Puffs'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I46
+sg8
+VSnoop Dogg
+p19
+sasS'producers'
+p20
+(lp21
+(dp22
+g5
+I123
+sg8
+VDr. Dre
+p23
+sa(dp24
+g5
+I3431
+sg8
+VDaz Dillinger
+p25
+sasS'references'
+p26
+(dp27
+sS'artist_id'
+p28
+I627
+sg5
+I27472
+s.

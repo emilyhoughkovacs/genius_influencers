@@ -1,0 +1,42 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'TMRW EP'
+p4
+sS'id'
+p5
+I130724
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Luke Christopher'
+p9
+sS'title'
+p10
+S'They Know'
+p11
+sS'references'
+p12
+(dp13
+S'song_unannotated'
+p14
+(lp15
+(dp16
+g5
+S'150'
+p17
+sa(dp18
+g5
+S'1199'
+p19
+sassS'artist_id'
+p20
+I11795
+sg5
+I2275787
+s.

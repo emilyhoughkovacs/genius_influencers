@@ -1,0 +1,51 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'The Swelly Express'
+p4
+sS'id'
+p5
+I11971
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'1534'
+p11
+sa(dp12
+g5
+S'51149'
+p13
+sasS'artist'
+p14
+(lp15
+(dp16
+g3
+VChris Webby
+p17
+sg5
+S'432'
+p18
+sassg14
+S'Chiddy Bang'
+p19
+sS'title'
+p20
+S'Opposite of Adults'
+p21
+sS'references'
+p22
+(dp23
+sS'artist_id'
+p24
+I413
+sg5
+I718
+s.

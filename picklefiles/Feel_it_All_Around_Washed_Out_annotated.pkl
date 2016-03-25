@@ -1,0 +1,54 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Life of Leisure EP'
+p4
+sS'id'
+p5
+I36825
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Washed Out'
+p9
+sS'title'
+p10
+S'Feel it All Around'
+p11
+sS'references'
+p12
+(dp13
+g8
+(lp14
+(dp15
+g3
+VWashed Out
+p16
+sg5
+S'14083'
+p17
+sa(dp18
+g3
+VToro Y Moi
+p19
+sg5
+S'14082'
+p20
+sa(dp21
+g3
+VAriel Pink's Haunted Graffiti
+p22
+sg5
+S'21735'
+p23
+sassS'artist_id'
+p24
+I14083
+sg5
+I174916
+s.

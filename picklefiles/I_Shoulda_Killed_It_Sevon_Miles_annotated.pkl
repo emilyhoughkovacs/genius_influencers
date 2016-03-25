@@ -1,0 +1,52 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Behind The Scenes'
+p4
+sS'id'
+p5
+I116091
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Sevon Miles'
+p9
+sS'title'
+p10
+S'I Shoulda Killed It'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I29978
+sg8
+VMike WiLL Made It
+p15
+sa(dp16
+g5
+I281997
+sg8
+VCrank Lucas
+p17
+sa(dp18
+g5
+I281996
+sg8
+VWe3ch
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I32195
+sg5
+I607964
+s.

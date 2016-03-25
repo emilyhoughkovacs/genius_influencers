@@ -1,0 +1,61 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Zara Larsson'
+p4
+sS'title'
+p5
+S'Lush Life'
+p6
+sS'writers'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I468027
+sg3
+VChristoph Bauss
+p11
+sa(dp12
+g10
+I468026
+sg3
+VMarkus Sepehrmanesh
+p13
+sa(dp14
+g10
+I468025
+sg3
+VIman Hultén
+p15
+sa(dp16
+g10
+I468024
+sg3
+VLinnea Södahl
+p17
+sa(dp18
+g10
+I468023
+sg3
+VEmanuel Abrahamsson
+p19
+sa(dp20
+g10
+I468028
+sg3
+VFridolin Walcher
+p21
+sasS'references'
+p22
+(dp23
+sS'artist_id'
+p24
+I55903
+sg10
+I2028423
+s.

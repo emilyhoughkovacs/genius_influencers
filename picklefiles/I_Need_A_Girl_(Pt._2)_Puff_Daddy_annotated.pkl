@@ -1,0 +1,67 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'We Invented the Remix'
+p4
+sS'id'
+p5
+I7799
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Puff Daddy'
+p9
+sS'title'
+p10
+S'I Need A Girl (Pt. 2)'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I9539
+sg8
+VTammy Ruggieri
+p15
+sa(dp16
+g5
+I1051
+sg8
+VMario Winans
+p17
+sa(dp18
+g5
+I1050
+sg8
+VLoon
+p19
+sa(dp20
+g5
+I816
+sg8
+VGinuwine
+p21
+sasS'producers'
+p22
+(lp23
+(dp24
+g5
+I1051
+sg8
+VMario Winans
+p25
+sasS'references'
+p26
+(dp27
+sS'artist_id'
+p28
+I82
+sg5
+I2204
+s.

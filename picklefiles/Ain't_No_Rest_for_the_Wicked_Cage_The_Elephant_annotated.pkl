@@ -1,0 +1,47 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Cage the Elephant'
+p4
+sS'id'
+p5
+I5961
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Cage The Elephant'
+p9
+sS'title'
+p10
+S"Ain't No Rest for the Wicked"
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I59535
+sg8
+VJay Joyce
+p15
+sasS'references'
+p16
+(dp17
+S'song_unannotated'
+p18
+(lp19
+(dp20
+g5
+S'28'
+p21
+sassS'artist_id'
+p22
+I8339
+sg5
+I31934
+s.

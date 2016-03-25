@@ -1,0 +1,87 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Finally Famous'
+p4
+sS'id'
+p5
+I10824
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VFinally Famous
+p10
+sg5
+S'10824'
+p11
+sassS'artist'
+p12
+S'Big Sean'
+p13
+sS'title'
+p14
+S'Get It (DT)'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I110
+sg12
+VPharrell Williams
+p19
+sasS'producers'
+p20
+(lp21
+(dp22
+g5
+I4617
+sg12
+VThe Neptunes
+p23
+sasS'references'
+p24
+(dp25
+g1
+(lp26
+(dp27
+g3
+VFinally Famous
+p28
+sg5
+S'10824'
+p29
+sasS'song_unannotated'
+p30
+(lp31
+(dp32
+g5
+S'1052'
+p33
+sa(dp34
+g5
+S'1052'
+p35
+sasg12
+(lp36
+(dp37
+g3
+VBig Sean
+p38
+sg5
+S'492'
+p39
+sassS'artist_id'
+p40
+I492
+sg5
+I51227
+s.

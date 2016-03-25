@@ -1,0 +1,43 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Joss Stone'
+p4
+sS'title'
+p5
+S'Right To Be Wrong'
+p6
+sS'producers'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I6769
+sg3
+VBetty Wright
+p11
+sa(dp12
+g10
+I125325
+sg3
+VMike Mangini
+p13
+sa(dp14
+g10
+I45370
+sg3
+VSteve Greenberg
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I1853
+sg10
+I1782713
+s.

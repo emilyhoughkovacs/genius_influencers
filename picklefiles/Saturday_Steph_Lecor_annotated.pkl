@@ -1,0 +1,37 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Steph Lecor'
+p4
+sS'title'
+p5
+S'Saturday'
+p6
+sS'producers'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I397832
+sg3
+VLamb
+p11
+sa(dp12
+g10
+I27659
+sg3
+VBigg D
+p13
+sasS'references'
+p14
+(dp15
+sS'artist_id'
+p16
+I565998
+sg10
+I2307291
+s.

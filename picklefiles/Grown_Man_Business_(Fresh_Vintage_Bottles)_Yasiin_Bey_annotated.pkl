@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'The New Danger'
+p4
+sS'id'
+p5
+I6773
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Yasiin Bey'
+p9
+sS'title'
+p10
+S'Grown Man Business (Fresh Vintage Bottles)'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I8822
+sg8
+VMinnesota
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I156
+sg5
+I33782
+s.

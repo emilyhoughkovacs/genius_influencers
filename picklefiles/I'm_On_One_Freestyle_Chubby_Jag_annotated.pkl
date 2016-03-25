@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'California I.D.'
+p4
+sS'id'
+p5
+I101850
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Chubby Jag'
+p9
+sS'title'
+p10
+S"I'm On One Freestyle"
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I29384
+sg5
+I416444
+s.

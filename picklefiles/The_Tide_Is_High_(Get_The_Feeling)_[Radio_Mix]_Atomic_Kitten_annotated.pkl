@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Atomic Kitten'
+p4
+sS'title'
+p5
+S'The Tide Is High (Get The Feeling) [Radio Mix]'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I349382
+sS'id'
+p10
+I1931490
+s.

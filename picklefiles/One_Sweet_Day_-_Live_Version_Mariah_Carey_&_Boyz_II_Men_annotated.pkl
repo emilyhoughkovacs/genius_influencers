@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Mariah Carey & Boyz II Men'
+p4
+sS'title'
+p5
+S'One Sweet Day - Live Version'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I352047
+sS'id'
+p10
+I835688
+s.

@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Radio'
+p4
+sS'id'
+p5
+I5091
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'LL Cool J'
+p9
+sS'title'
+p10
+S'Rock The Bells'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I27794
+sg8
+VRick Rubin
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I848
+sg5
+I29087
+s.

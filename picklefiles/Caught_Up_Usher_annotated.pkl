@@ -1,0 +1,73 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Confessions'
+p4
+sS'id'
+p5
+I6544
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Usher'
+p9
+sS'title'
+p10
+S'Caught Up'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I49676
+sg8
+VVidal Davis
+p15
+sa(dp16
+g5
+I45150
+sg8
+VAndre Harris
+p17
+sasS'writers'
+p18
+(lp19
+(dp20
+g5
+I7597
+sg8
+VRyan Toby
+p21
+sa(dp22
+g5
+I45150
+sg8
+VAndre Harris
+p23
+sa(dp24
+g5
+I49676
+sg8
+VVidal Davis
+p25
+sa(dp26
+g5
+I58503
+sg8
+VJason Boyd
+p27
+sasS'references'
+p28
+(dp29
+sS'artist_id'
+p30
+I132
+sg5
+I60408
+s.

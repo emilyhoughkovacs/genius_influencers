@@ -1,0 +1,39 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'RG France Translations'
+p4
+sS'title'
+p5
+S"Diddy feat. Faith Evans et 112 - I'll Be Missing You (french version)"
+p6
+sS'references'
+p7
+(dp8
+S'song_unannotated'
+p9
+(lp10
+(dp11
+S'id'
+p12
+S'4188'
+p13
+sasg3
+(lp14
+(dp15
+S'name'
+p16
+VPuff Daddy
+p17
+sg12
+S'82'
+p18
+sassS'artist_id'
+p19
+I140856
+sg12
+I92490
+s.

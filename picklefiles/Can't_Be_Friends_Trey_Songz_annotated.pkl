@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Passion, Pain & Pleasure'
+p4
+sS'id'
+p5
+I11042
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Trey Songz'
+p9
+sS'title'
+p10
+S"Can't Be Friends"
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I1051
+sg8
+VMario Winans
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I326
+sg5
+I49680
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Nas'
+p4
+sS'title'
+p5
+S'N.Y. State of Mind, Pt. ll'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I56
+sS'id'
+p10
+I2215917
+s.

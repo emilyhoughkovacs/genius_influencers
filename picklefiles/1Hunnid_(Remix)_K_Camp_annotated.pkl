@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Only Way Is Up'
+p4
+sS'id'
+p5
+I129083
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'K Camp'
+p9
+sS'title'
+p10
+S'1Hunnid (Remix)'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I216609
+sg8
+VFetty Wap
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I20742
+sg5
+I1779037
+s.

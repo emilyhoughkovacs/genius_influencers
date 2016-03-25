@@ -1,0 +1,126 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Yours Truly'
+p4
+sS'id'
+p5
+I41720
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VYours Truly
+p10
+sg5
+S'41720'
+p11
+sasS'song_unannotated'
+p12
+(lp13
+(dp14
+g5
+S'150'
+p15
+sasS'artist'
+p16
+(lp17
+(dp18
+g3
+VAriana Grande
+p19
+sg5
+S'26507'
+p20
+sa(dp21
+g3
+VBig Punisher
+p22
+sg5
+S'161'
+p23
+sassg16
+S'Ariana Grande'
+p24
+sS'title'
+p25
+S'The Way'
+p26
+sS'featured_artists'
+p27
+(lp28
+(dp29
+g5
+I820
+sg16
+VMac Miller
+p30
+sasS'producers'
+p31
+(lp32
+(dp33
+g5
+I1826
+sg16
+VSauce
+p34
+sa(dp35
+g5
+I46085
+sg16
+VHarmony Samuels
+p36
+sasS'writers'
+p37
+(lp38
+(dp39
+g5
+I37463
+sg16
+VSevyn Streeter
+p40
+sa(dp41
+g5
+I262789
+sg16
+VBrenda Russell
+p42
+sa(dp43
+g5
+I820
+sg16
+VMac Miller
+p44
+sa(dp45
+g5
+I10207
+sg16
+VJordin Sparks
+p46
+sa(dp47
+g5
+I550007
+sg16
+VAl Sherrod Lambert
+p48
+sa(dp49
+g5
+I46085
+sg16
+VHarmony Samuels
+p50
+sasS'references'
+p51
+(dp52
+sS'artist_id'
+p53
+I26507
+sg5
+I131712
+s.

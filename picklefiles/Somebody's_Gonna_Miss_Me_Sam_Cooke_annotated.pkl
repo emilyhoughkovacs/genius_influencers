@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'My Kind of Blues'
+p4
+sS'id'
+p5
+I45365
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Sam Cooke'
+p9
+sS'title'
+p10
+S"Somebody's Gonna Miss Me"
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I21689
+sg5
+I218837
+s.

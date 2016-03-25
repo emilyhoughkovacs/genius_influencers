@@ -1,0 +1,46 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Cuffing Season, Pt. 2'
+p4
+sS'id'
+p5
+I139111
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Eric Bellinger'
+p9
+sS'title'
+p10
+S'Valet'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I14325
+sg8
+V2 Chainz
+p15
+sa(dp16
+g5
+I216609
+sg8
+VFetty Wap
+p17
+sasS'references'
+p18
+(dp19
+sS'artist_id'
+p20
+I19233
+sg5
+I2268248
+s.

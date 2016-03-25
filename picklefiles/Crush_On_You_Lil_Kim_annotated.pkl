@@ -1,0 +1,81 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Hard Core'
+p4
+sS'id'
+p5
+I4919
+ssS'description_refs'
+p6
+(dp7
+S'other'
+p8
+(lp9
+(dp10
+g5
+S'2279119'
+p11
+sS'title'
+p12
+VCrush On You (Album Version)
+p13
+sassS'artist'
+p14
+S'Lil Kim'
+p15
+sg12
+S'Crush On You'
+p16
+sS'featured_artists'
+p17
+(lp18
+(dp19
+g5
+I22
+sg14
+VThe Notorious B.I.G.
+p20
+sa(dp21
+g5
+I3840
+sg14
+VLil' Cease
+p22
+sasS'producers'
+p23
+(lp24
+(dp25
+g5
+I74563
+sg14
+VAndreao Heard
+p26
+sasS'writers'
+p27
+(lp28
+(dp29
+g5
+I1
+sg14
+VCam'ron
+p30
+sasS'references'
+p31
+(dp32
+S'song_unannotated'
+p33
+(lp34
+(dp35
+g5
+S'146038'
+p36
+sassS'artist_id'
+p37
+I411
+sg5
+I2286
+s.

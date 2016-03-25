@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Various Artists,Electronic Swing Orchestra'
+p4
+sS'title'
+p5
+S'Quiero Bailar Swing'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I529214
+sS'id'
+p10
+I2218017
+s.

@@ -1,0 +1,58 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Justified'
+p4
+sS'id'
+p5
+I6424
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VMichael Jackson
+p11
+sg5
+S'835'
+p12
+sassg8
+S'Justin Timberlake'
+p13
+sS'title'
+p14
+S'Rock Your Body'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I3302
+sg8
+VVanessa Marquez
+p19
+sasS'producers'
+p20
+(lp21
+(dp22
+g5
+I4617
+sg8
+VThe Neptunes
+p23
+sasS'references'
+p24
+(dp25
+sS'artist_id'
+p26
+I334
+sg5
+I124611
+s.

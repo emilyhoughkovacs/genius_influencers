@@ -1,0 +1,31 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Jez Dior'
+p4
+sS'title'
+p5
+S'The Line'
+p6
+sS'producers'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I165640
+sg3
+VWes Period
+p11
+sasS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I25054
+sg10
+I1128630
+s.

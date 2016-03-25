@@ -1,0 +1,59 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Grave Dancers Union'
+p4
+sS'id'
+p5
+I30257
+ssS'description_refs'
+p6
+(dp7
+S'other'
+p8
+(lp9
+(dp10
+g5
+S'384708'
+p11
+sS'title'
+p12
+VLa Siesta del Martes
+p13
+sasS'artist'
+p14
+(lp15
+(dp16
+g3
+VWoody Guthrie
+p17
+sg5
+S'28623'
+p18
+sassg14
+S'Soul Asylum'
+p19
+sg12
+S'Runaway Train'
+p20
+sS'producers'
+p21
+(lp22
+(dp23
+g5
+I39044
+sg14
+VMichael Beinhorn
+p24
+sasS'references'
+p25
+(dp26
+sS'artist_id'
+p27
+I42640
+sg5
+I131758
+s.

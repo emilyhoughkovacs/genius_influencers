@@ -1,0 +1,61 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Jealous Ones Still Envy (J.O.S.E.)'
+p4
+sS'id'
+p5
+I3050
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Fat Joe'
+p9
+sS'title'
+p10
+S"What's Luv?"
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I2675
+sg8
+VAshanti
+p15
+sa(dp16
+g5
+I183
+sg8
+VJa Rule
+p17
+sasS'producers'
+p18
+(lp19
+(dp20
+g5
+I9768
+sg8
+VIrv Gotti
+p21
+sa(dp22
+g5
+I5439
+sg8
+VChinky
+p23
+sasS'references'
+p24
+(dp25
+sS'artist_id'
+p26
+I83
+sg5
+I19715
+s.

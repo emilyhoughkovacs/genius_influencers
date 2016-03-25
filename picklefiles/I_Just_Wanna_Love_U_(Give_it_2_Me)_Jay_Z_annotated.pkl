@@ -1,0 +1,168 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'The Dynasty: Roc La Familia'
+p4
+sS'id'
+p5
+I4066
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Jay Z'
+p9
+sS'title'
+p10
+S'I Just Wanna Love U (Give it 2 Me)'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I1607
+sg8
+VJuice
+p15
+sa(dp16
+g5
+I110
+sg8
+VPharrell Williams
+p17
+sasS'producers'
+p18
+(lp19
+(dp20
+g5
+I4617
+sg8
+VThe Neptunes
+p21
+sasS'writers'
+p22
+(lp23
+(dp24
+g5
+I643454
+sg8
+VK. Walker
+p25
+sa(dp26
+g5
+I64695
+sg8
+VSean Combs
+p27
+sa(dp28
+g5
+I244730
+sg8
+VDeric "D-Dot" Angelettie
+p29
+sa(dp30
+g5
+I136285
+sg8
+VChristopher Wallace
+p31
+sa(dp32
+g5
+I26832
+sg8
+VChad Hugo
+p33
+sa(dp34
+g5
+I110
+sg8
+VPharrell Williams
+p35
+sasS'references'
+p36
+(dp37
+g8
+(lp38
+(dp39
+g3
+VPharrell Williams
+p40
+sg5
+S'110'
+p41
+sa(dp42
+g3
+VChad Hugo
+p43
+sg5
+S'26832'
+p44
+sassS'sampled_songs'
+p45
+(lp46
+(dp47
+Vtitle
+p48
+VThe World Is Filled
+p49
+sVpyongs_count
+p50
+I6
+sVurl
+p51
+Vhttp://genius.com/The-notorious-big-the-world-is-filled-lyrics
+p52
+sVfull_title
+p53
+VThe World Is Filled by The Notorious B.I.G. (Ft. Puff Daddy & Too $hort)
+p54
+sVheader_image_thumbnail_url
+p55
+Vhttps://s3.amazonaws.com/rapgenius/1325921245_album-life-after-death.jpg
+p56
+sVpath
+p57
+V/The-notorious-big-the-world-is-filled-lyrics
+p58
+sVprimary_artist
+p59
+(dp60
+Vurl
+p61
+Vhttp://genius.com/artists/The-notorious-big
+p62
+sVis_verified
+p63
+I00
+sVimage_url
+p64
+Vhttps://images.rapgenius.com/e389ab1ad8c17cad1ab5a0316b2360a3.376x290x1.png
+p65
+sVid
+p66
+I22
+sVname
+p67
+VThe Notorious B.I.G.
+p68
+ssVannotation_count
+p69
+I1
+sVid
+p70
+I254
+sVheader_image_url
+p71
+Vhttps://s3.amazonaws.com/rapgenius/1325921245_album-life-after-death.jpg
+p72
+sasS'artist_id'
+p73
+I2
+sg5
+I24440
+s.

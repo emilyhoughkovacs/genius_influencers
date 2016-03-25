@@ -1,0 +1,62 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Attack the Block'
+p4
+sS'id'
+p5
+I20211
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Mack Maine'
+p9
+sS'title'
+p10
+S'Celebrate'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I388
+sg8
+VTalib Kweli
+p15
+sa(dp16
+g5
+I4
+sg8
+VLil Wayne
+p17
+sasS'producers'
+p18
+(lp19
+(dp20
+g5
+I1007
+sg8
+VDJ Clue
+p21
+sasS'references'
+p22
+(dp23
+S'song_unannotated'
+p24
+(lp25
+(dp26
+g5
+S'3781'
+p27
+sassS'artist_id'
+p28
+I160
+sg5
+I72405
+s.

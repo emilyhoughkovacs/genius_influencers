@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Summer In The Winter'
+p4
+sS'id'
+p5
+I140468
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Kid Ink'
+p9
+sS'title'
+p10
+S"That's On You"
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I29780
+sg8
+VDJ Mustard
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I1631
+sg5
+I2397096
+s.

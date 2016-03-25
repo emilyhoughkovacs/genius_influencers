@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Everything Is 4'
+p4
+sS'id'
+p5
+I122800
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Jason Derulo'
+p9
+sS'title'
+p10
+S'Want to Want Me'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I165764
+sg8
+VIan Kirkpatrick
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I17764
+sg5
+I720259
+s.

@@ -1,0 +1,262 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Dreams Worth More than Money'
+p4
+sS'id'
+p5
+I87848
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'601816'
+p11
+sa(dp12
+g5
+S'601822'
+p13
+sa(dp14
+g5
+S'2151245'
+p15
+sa(dp16
+g5
+S'229614'
+p17
+sa(dp18
+g5
+S'213969'
+p19
+sassS'artist'
+p20
+S'Meek Mill'
+p21
+sS'title'
+p22
+S'All Eyes on You'
+p23
+sS'featured_artists'
+p24
+(lp25
+(dp26
+g5
+I92
+sg20
+VNicki Minaj
+p27
+sa(dp28
+g5
+I438
+sg20
+VChris Brown
+p29
+sasS'producers'
+p30
+(lp31
+(dp32
+g5
+I158
+sg20
+VDJ Khaled
+p33
+sa(dp34
+g5
+I2341
+sg20
+VKevin Cossom
+p35
+sa(dp36
+g5
+I52929
+sg20
+VDanny Morris
+p37
+sa(dp38
+g5
+I507685
+sg20
+VAlex Delicata
+p39
+sa(dp40
+g5
+I27604
+sg20
+VThe Monarch
+p41
+sasS'writers'
+p42
+(lp43
+(dp44
+g5
+I22
+sg20
+VThe Notorious B.I.G.
+p45
+sa(dp46
+g5
+I2459
+sg20
+VLayzie Bone
+p47
+sa(dp48
+g5
+I350
+sg20
+VKrayzie Bone
+p49
+sa(dp50
+g5
+I2458
+sg20
+VBizzy Bone
+p51
+sa(dp52
+g5
+I7361
+sg20
+VPuff
+p53
+sa(dp54
+g5
+I8597
+sg20
+VStevie J
+p55
+sa(dp56
+g5
+I579870
+sg20
+VSean Davidson
+p57
+sa(dp58
+g5
+I579869
+sg20
+VAndre Davidson
+p59
+sa(dp60
+g5
+I507685
+sg20
+VAlex Delicata
+p61
+sa(dp62
+g5
+I38940
+sg20
+VKevin Hart
+p63
+sa(dp64
+g5
+I92
+sg20
+VNicki Minaj
+p65
+sa(dp66
+g5
+I438
+sg20
+VChris Brown
+p67
+sa(dp68
+g5
+I52929
+sg20
+VDanny Morris
+p69
+sa(dp70
+g5
+I2341
+sg20
+VKevin Cossom
+p71
+sasS'references'
+p72
+(dp73
+g1
+(lp74
+(dp75
+g3
+VAll Eyez on Me
+p76
+sg5
+S'38'
+p77
+sasg8
+(lp78
+(dp79
+g5
+S'5333'
+p80
+sa(dp81
+g5
+S'384821'
+p82
+sasS'other'
+p83
+(lp84
+(dp85
+g5
+S'601816'
+p86
+sg22
+VBuy A Heart
+p87
+sa(dp88
+g5
+S'601816'
+p89
+sg22
+VBuy A Heart
+p90
+sa(dp91
+g5
+S'212823'
+p92
+sg22
+VPress Conference
+p93
+sasg20
+(lp94
+(dp95
+g3
+VJay Z
+p96
+sg5
+S'2'
+p97
+sa(dp98
+g3
+VBeyoncé
+p99
+sg5
+S'498'
+p100
+sa(dp101
+g3
+VKanye West
+p102
+sg5
+S'72'
+p103
+sa(dp104
+g3
+VKim Kardashian
+p105
+sg5
+S'55920'
+p106
+sassS'artist_id'
+p107
+I1319
+sg5
+I2153759
+s.

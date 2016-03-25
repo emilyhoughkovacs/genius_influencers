@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'G.O.A.T. (Greatest Of All Time)'
+p4
+sS'id'
+p5
+I5083
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'LL Cool J'
+p9
+sS'title'
+p10
+S'I Need Love'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I58850
+sg8
+VL.A. Posse
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I848
+sg5
+I28995
+s.

@@ -1,0 +1,46 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Animal'
+p4
+sS'id'
+p5
+I64960
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Kesha'
+p9
+sS'title'
+p10
+S'TiK ToK'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I28906
+sg8
+VBenny Blanco
+p15
+sa(dp16
+g5
+I27804
+sg8
+VDr. Luke
+p17
+sasS'references'
+p18
+(dp19
+sS'artist_id'
+p20
+I1519
+sg5
+I3627
+s.

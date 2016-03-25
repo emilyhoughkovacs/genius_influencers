@@ -1,0 +1,131 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'This Is What the Truth Feels Like'
+p4
+sS'id'
+p5
+I113812
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VThis Is What the Truth Feels Like
+p10
+sg5
+S'113812'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VBlake Shelton
+p15
+sg5
+S'34065'
+p16
+sassg12
+S'Gwen Stefani'
+p17
+sS'title'
+p18
+S'Make Me Like You'
+p19
+sS'producers'
+p20
+(lp21
+(dp22
+g5
+I552457
+sg12
+VMattman & Robin
+p23
+sasS'writers'
+p24
+(lp25
+(dp26
+g5
+I409643
+sg12
+VJulia Michaels
+p27
+sa(dp28
+g5
+I409511
+sg12
+VJustin Tranter
+p29
+sasS'references'
+p30
+(dp31
+g12
+(lp32
+(dp33
+g3
+VBlake Shelton
+p34
+sg5
+S'34065'
+p35
+sa(dp36
+g3
+VGavin Rossdale
+p37
+sg5
+S'239033'
+p38
+sa(dp39
+g3
+VBlake Shelton
+p40
+sg5
+S'34065'
+p41
+sa(dp42
+g3
+VGwen Stefani
+p43
+sg5
+S'1893'
+p44
+sa(dp45
+g3
+VBlake Shelton
+p46
+sg5
+S'34065'
+p47
+sa(dp48
+g3
+VMiranda Lambert
+p49
+sg5
+S'22511'
+p50
+sa(dp51
+g3
+VGavin Rossdale
+p52
+sg5
+S'239033'
+p53
+sa(dp54
+g3
+VBlake Shelton
+p55
+sg5
+S'34065'
+p56
+sassS'artist_id'
+p57
+I1893
+sg5
+I2417511
+s.

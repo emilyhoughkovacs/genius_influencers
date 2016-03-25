@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S"Daddy's Little Girl"
+p4
+sS'id'
+p5
+I7163
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Nikki D'
+p9
+sS'title'
+p10
+S"Daddy's Little Girl"
+p11
+sS'references'
+p12
+(dp13
+g8
+(lp14
+(dp15
+g3
+VRussell Simmons
+p16
+sg5
+S'2724'
+p17
+sassS'artist_id'
+p18
+I3163
+sg5
+I35414
+s.

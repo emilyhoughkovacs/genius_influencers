@@ -1,0 +1,82 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S"It Ain't Safe No More..."
+p4
+sS'id'
+p5
+I555
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Busta Rhymes'
+p9
+sS'title'
+p10
+S'I Know What You Want'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I1205
+sg8
+VMariah Carey
+p15
+sa(dp16
+g5
+I2213
+sg8
+VFlipmode Squad
+p17
+sasS'producers'
+p18
+(lp19
+(dp20
+g5
+I30963
+sg8
+VRick Rock
+p21
+sasS'writers'
+p22
+(lp23
+(dp24
+g5
+I9152
+sg8
+VBaby Sham
+p25
+sa(dp26
+g5
+I1586
+sg8
+VRah Digga
+p27
+sa(dp28
+g5
+I1110
+sg8
+VRampage
+p29
+sa(dp30
+g5
+I3325
+sg8
+VSpliff Star
+p31
+sasS'references'
+p32
+(dp33
+sS'artist_id'
+p34
+I338
+sg5
+I5835
+s.

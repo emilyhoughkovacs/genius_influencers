@@ -1,0 +1,103 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'The Documentary'
+p4
+sS'id'
+p5
+I9855
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'The Game'
+p9
+sS'title'
+p10
+S'How We Do'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I108
+sg8
+V50 Cent
+p15
+sasS'producers'
+p16
+(lp17
+(dp18
+g5
+I34793
+sg8
+VMike Elizondo
+p19
+sa(dp20
+g5
+I123
+sg8
+VDr. Dre
+p21
+sasS'references'
+p22
+(dp23
+S'song_unannotated'
+p24
+(lp25
+(dp26
+g5
+S'1546'
+p27
+sa(dp28
+g5
+S'40404'
+p29
+sasg8
+(lp30
+(dp31
+g3
+VDr. Dre
+p32
+sg5
+S'123'
+p33
+sa(dp34
+g3
+VMC Eiht
+p35
+sg5
+S'4637'
+p36
+sa(dp37
+g3
+VIce Cube
+p38
+sg5
+S'186'
+p39
+sa(dp40
+g3
+VEazy-E
+p41
+sg5
+S'496'
+p42
+sa(dp43
+g3
+VKendrick Lamar
+p44
+sg5
+S'1421'
+p45
+sassS'artist_id'
+p46
+I42
+sg5
+I4636
+s.

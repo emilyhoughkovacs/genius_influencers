@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Broke With Expensive Taste'
+p4
+sS'id'
+p5
+I30291
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Azealia Banks'
+p9
+sS'title'
+p10
+S'212'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I37771
+sg8
+VLazy Jay
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I14186
+sg5
+I57315
+s.

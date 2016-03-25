@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Funky Divas'
+p4
+sS'id'
+p5
+I96885
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'En Vogue'
+p9
+sS'title'
+p10
+S'Free Your Mind'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I8571
+sg5
+I410884
+s.

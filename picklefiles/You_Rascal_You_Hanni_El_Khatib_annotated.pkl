@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Will The Guns Come Out'
+p4
+sS'id'
+p5
+I61299
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Hanni El Khatib'
+p9
+sS'title'
+p10
+S'You Rascal You'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I101636
+sg5
+I282475
+s.

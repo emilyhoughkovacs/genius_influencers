@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Adrian Thaws'
+p4
+sS'id'
+p5
+I115554
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Tricky'
+p9
+sS'title'
+p10
+S'Right Here'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I14246
+sg8
+VOh Land
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I6318
+sg5
+I592901
+s.

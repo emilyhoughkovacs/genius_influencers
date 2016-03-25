@@ -1,0 +1,115 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'In Colour'
+p4
+sS'id'
+p5
+I122645
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VIn Colour
+p10
+sg5
+S'122645'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VThe xx
+p15
+sg5
+S'14181'
+p16
+sa(dp17
+g3
+VJamie xx
+p18
+sg5
+S'31426'
+p19
+sa(dp20
+g3
+VPopcaan
+p21
+sg5
+S'17195'
+p22
+sa(dp23
+g3
+VYoung Thug
+p24
+sg5
+S'20503'
+p25
+sassg12
+S'Jamie xx'
+p26
+sS'title'
+p27
+S"I Know There's Gonna Be (Good Times)"
+p28
+sS'featured_artists'
+p29
+(lp30
+(dp31
+g5
+I17195
+sg12
+VPopcaan
+p32
+sa(dp33
+g5
+I20503
+sg12
+VYoung Thug
+p34
+sasS'references'
+p35
+(dp36
+S'song_unannotated'
+p37
+(lp38
+(dp39
+g5
+S'494172'
+p40
+sa(dp41
+g5
+S'761242'
+p42
+sasS'other'
+p43
+(lp44
+(dp45
+g5
+S'293976'
+p46
+sg27
+VDanny Glover (2 Bitches)
+p47
+sasg12
+(lp48
+(dp49
+g3
+VMPA Duke
+p50
+sg5
+S'141276'
+p51
+sassS'artist_id'
+p52
+I31426
+sg5
+I1790573
+s.

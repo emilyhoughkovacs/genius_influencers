@@ -1,0 +1,80 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S"Get Rich or Die Tryin'"
+p4
+sS'id'
+p5
+I141
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'233'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VDr. Dre
+p15
+sg5
+S'123'
+p16
+sassg12
+S'50 Cent'
+p17
+sS'title'
+p18
+S'21 Questions'
+p19
+sS'featured_artists'
+p20
+(lp21
+(dp22
+g5
+I149
+sg12
+VNate Dogg
+p23
+sasS'producers'
+p24
+(lp25
+(dp26
+g5
+I38384
+sg12
+VDirty Swift
+p27
+sasS'references'
+p28
+(dp29
+g8
+(lp30
+(dp31
+g5
+S'33108'
+p32
+sasg12
+(lp33
+(dp34
+g3
+VBarry White
+p35
+sg5
+S'3719'
+p36
+sassS'artist_id'
+p37
+I108
+sg5
+I168
+s.

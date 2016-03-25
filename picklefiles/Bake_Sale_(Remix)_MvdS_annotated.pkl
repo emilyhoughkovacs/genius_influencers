@@ -1,0 +1,92 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+S'artist'
+p3
+(lp4
+(dp5
+S'name'
+p6
+VWiz Khalifa
+p7
+sS'id'
+p8
+S'310'
+p9
+sa(dp10
+g6
+VTravis Scott
+p11
+sg8
+S'20185'
+p12
+sasS'song'
+p13
+(lp14
+(dp15
+g3
+VWiz Khalifa
+p16
+sg8
+S'2304247'
+p17
+sS'title'
+p18
+VBake Sale
+p19
+sassg3
+S'MvdS'
+p20
+sg18
+S'Bake Sale (Remix)'
+p21
+sS'producers'
+p22
+(lp23
+(dp24
+g8
+I1073
+sg3
+VJuicy J
+p25
+sa(dp26
+g8
+I27486
+sg3
+VTM88
+p27
+sa(dp28
+g8
+I2268
+sg3
+VLex Luger
+p29
+sa(dp30
+g8
+I27511
+sg3
+VDJ Spinz
+p31
+sa(dp32
+g8
+I33260
+sg3
+VCrazy Mike
+p33
+sasS'references'
+p34
+(dp35
+S'song_unannotated'
+p36
+(lp37
+(dp38
+g8
+S'573451'
+p39
+sassS'artist_id'
+p40
+I326669
+sg8
+I2413513
+s.

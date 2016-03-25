@@ -1,0 +1,63 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'The London Sessions'
+p4
+sS'id'
+p5
+I111891
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VDisclosure
+p11
+sg5
+S'43384'
+p12
+sa(dp13
+g3
+VSam Smith
+p14
+sg5
+S'43383'
+p15
+sa(dp16
+g3
+VJimmy Napes
+p17
+sg5
+S'95984'
+p18
+sassg8
+S'Mary J. Blige'
+p19
+sS'title'
+p20
+S'Right Now'
+p21
+sS'producers'
+p22
+(lp23
+(dp24
+g5
+I43384
+sg8
+VDisclosure
+p25
+sasS'references'
+p26
+(dp27
+sS'artist_id'
+p28
+I358
+sg5
+I513574
+s.

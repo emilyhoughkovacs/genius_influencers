@@ -1,0 +1,111 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'This Is What the Truth Feels Like'
+p4
+sS'id'
+p5
+I113812
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VThis Is What the Truth Feels Like
+p10
+sg5
+S'113812'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VBush
+p15
+sg5
+S'20009'
+p16
+sa(dp17
+g3
+VGavin Rossdale
+p18
+sg5
+S'239033'
+p19
+sassg12
+S'Gwen Stefani'
+p20
+sS'title'
+p21
+S'Used To Love You'
+p22
+sS'producers'
+p23
+(lp24
+(dp25
+g5
+I27626
+sg12
+VJ. R. Rotem
+p26
+sasS'writers'
+p27
+(lp28
+(dp29
+g5
+I53611
+sg12
+VTeal Douville
+p30
+sa(dp31
+g5
+I409643
+sg12
+VJulia Michaels
+p32
+sa(dp33
+g5
+I27626
+sg12
+VJ. R. Rotem
+p34
+sa(dp35
+g5
+I409511
+sg12
+VJustin Tranter
+p36
+sasS'references'
+p37
+(dp38
+S'song_unannotated'
+p39
+(lp40
+(dp41
+g5
+S'208107'
+p42
+sa(dp43
+g5
+S'347376'
+p44
+sa(dp45
+g5
+S'345834'
+p46
+sa(dp47
+g5
+S'347938'
+p48
+sassS'artist_id'
+p49
+I1893
+sg5
+I2332048
+s.

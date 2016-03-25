@@ -1,0 +1,64 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Animal House'
+p4
+sS'id'
+p5
+I360
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VAngie Martinez
+p11
+sg5
+S'1678'
+p12
+sassg8
+S'Angie Martinez'
+p13
+sS'title'
+p14
+S'If I Could Go'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I3127
+sg8
+VSacario
+p19
+sa(dp20
+g5
+I2445
+sg8
+VLil' Mo
+p21
+sasS'producers'
+p22
+(lp23
+(dp24
+g5
+I30963
+sg8
+VRick Rock
+p25
+sasS'references'
+p26
+(dp27
+sS'artist_id'
+p28
+I1678
+sg5
+I8120
+s.

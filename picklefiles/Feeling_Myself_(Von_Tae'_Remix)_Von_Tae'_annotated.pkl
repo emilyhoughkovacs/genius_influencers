@@ -1,0 +1,37 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S"Von Tae'"
+p4
+sS'title'
+p5
+S"Feeling Myself (Von Tae' Remix)"
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I92
+sg3
+VNicki Minaj
+p11
+sa(dp12
+g10
+I498
+sg3
+VBeyoncé
+p13
+sasS'references'
+p14
+(dp15
+sS'artist_id'
+p16
+I326828
+sg10
+I699959
+s.

@@ -1,0 +1,95 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S"Gangsta's Paradise"
+p4
+sS'id'
+p5
+I1740
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VCoolio
+p11
+sg5
+S'676'
+p12
+sa(dp13
+g3
+VStevie Wonder
+p14
+sg5
+S'1602'
+p15
+sassg8
+S'RG France Translations'
+p16
+sS'title'
+p17
+S"Coolio - Gangsta's Paradise (French Version)"
+p18
+sS'featured_artists'
+p19
+(lp20
+(dp21
+g5
+I4757
+sg8
+VLV
+p22
+sasS'producers'
+p23
+(lp24
+(dp25
+g5
+I27557
+sg8
+VDoug Rasheed
+p26
+sasS'references'
+p27
+(dp28
+g8
+(lp29
+(dp30
+g3
+VCoolio
+p31
+sg5
+S'676'
+p32
+sa(dp33
+g3
+VStevie Wonder
+p34
+sg5
+S'1602'
+p35
+sa(dp36
+g3
+VEasy e
+p37
+sg5
+S'629109'
+p38
+sa(dp39
+g3
+VSnoop Dogg
+p40
+sg5
+S'46'
+p41
+sassS'artist_id'
+p42
+I140856
+sg5
+I667130
+s.

@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'The Truth EP'
+p4
+sS'id'
+p5
+I125231
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Mike Posner'
+p9
+sS'title'
+p10
+S'I took a pill in Ibiza (SeeB remix)'
+p11
+sS'writers'
+p12
+(lp13
+(dp14
+g5
+I136287
+sg8
+VMartin Terefe
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I654
+sg5
+I2435615
+s.

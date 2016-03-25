@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Body Music'
+p4
+sS'id'
+p5
+I40128
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VDJ Snake
+p11
+sg5
+S'41287'
+p12
+sassg8
+S'AlunaGeorge'
+p13
+sS'title'
+p14
+S'You Know You Like It'
+p15
+sS'producers'
+p16
+(lp17
+(dp18
+g5
+I394709
+sg8
+VGeorge Reid
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I25131
+sg5
+I192879
+s.

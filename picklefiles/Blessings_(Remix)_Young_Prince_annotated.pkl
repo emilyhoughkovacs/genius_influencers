@@ -1,0 +1,40 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Young Prince'
+p4
+sS'title'
+p5
+S'Blessings (Remix)'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I402778
+sg3
+VDeramus
+p11
+sasS'writers'
+p12
+(lp13
+(dp14
+g10
+I402777
+sg3
+VAntoine Deramus
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I7722
+sg10
+I1800122
+s.

@@ -1,0 +1,22 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Elvin Bishop'
+p4
+sS'title'
+p5
+S'Many Rivers To Cross'
+p6
+sS'references'
+p7
+(dp8
+sS'artist_id'
+p9
+I271242
+sS'id'
+p10
+I1541932
+s.

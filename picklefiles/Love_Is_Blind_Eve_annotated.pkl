@@ -1,0 +1,46 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S"Ruff Ryders' First Lady"
+p4
+sS'id'
+p5
+I2975
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Eve'
+p9
+sS'title'
+p10
+S'Love Is Blind'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I5581
+sg8
+VP Killer Trackz
+p15
+sa(dp16
+g5
+I184
+sg8
+VSwizz Beatz
+p17
+sasS'references'
+p18
+(dp19
+sS'artist_id'
+p20
+I458
+sg5
+I2609
+s.

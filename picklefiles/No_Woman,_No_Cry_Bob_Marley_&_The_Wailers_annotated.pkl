@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Natty Dread'
+p4
+sS'id'
+p5
+I60736
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Bob Marley & The Wailers'
+p9
+sS'title'
+p10
+S'No Woman, No Cry'
+p11
+sS'writers'
+p12
+(lp13
+(dp14
+g5
+I922
+sg8
+VBob Marley
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I28615
+sg5
+I57824
+s.

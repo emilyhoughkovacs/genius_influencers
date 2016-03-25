@@ -1,0 +1,103 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Bush'
+p4
+sS'id'
+p5
+I118971
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VNelly
+p11
+sg5
+S'148'
+p12
+sassg8
+S'Snoop Dogg'
+p13
+sS'title'
+p14
+S'Peaches N Cream'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I530
+sg8
+VCharlie Wilson
+p19
+sasS'producers'
+p20
+(lp21
+(dp22
+g5
+I110
+sg8
+VPharrell Williams
+p23
+sasS'writers'
+p24
+(lp25
+(dp26
+g5
+I632258
+sg8
+VJunie Morrison
+p27
+sa(dp28
+g5
+I351
+sg8
+VGeorge Clinton
+p29
+sa(dp30
+g5
+I2972
+sg8
+VTeena Marie
+p31
+sa(dp32
+g5
+I2059
+sg8
+VRob Base
+p33
+sa(dp34
+g5
+I21594
+sg8
+VGarry Shider
+p35
+sa(dp36
+g5
+I110
+sg8
+VPharrell Williams
+p37
+sa(dp38
+g5
+I148
+sg8
+VNelly
+p39
+sasS'references'
+p40
+(dp41
+sS'artist_id'
+p42
+I46
+sg5
+I694992
+s.

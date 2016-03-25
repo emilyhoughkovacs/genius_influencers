@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'The Carnival'
+p4
+sS'id'
+p5
+I10519
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Wyclef Jean'
+p9
+sS'title'
+p10
+S'Gone Til November'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I29322
+sg8
+VJerry "Wonda" Duplessis
+p15
+sasS'references'
+p16
+(dp17
+g8
+(lp18
+(dp19
+g3
+VSmashing Pumpkins
+p20
+sg5
+S'12025'
+p21
+sassS'artist_id'
+p22
+I467
+sg5
+I47967
+s.

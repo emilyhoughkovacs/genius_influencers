@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Days Gone By'
+p4
+sS'id'
+p5
+I132296
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Bob Moses'
+p9
+sS'title'
+p10
+S'Talk'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I457991
+sg5
+I2163879
+s.

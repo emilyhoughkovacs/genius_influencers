@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Welcome to the Dollhouse'
+p4
+sS'id'
+p5
+I6052
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Danity Kane'
+p9
+sS'title'
+p10
+S'Damaged'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I8392
+sg5
+I170443
+s.

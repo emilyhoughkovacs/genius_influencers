@@ -1,0 +1,77 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Make Way for the Motherlode'
+p4
+sS'id'
+p5
+I10644
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Yo-Yo'
+p9
+sS'title'
+p10
+S"You Can't Play With My Yo-Yo"
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I186
+sg8
+VIce Cube
+p15
+sasS'references'
+p16
+(dp17
+S'song_unannotated'
+p18
+(lp19
+(dp20
+g5
+S'38269'
+p21
+sasg8
+(lp22
+(dp23
+g3
+VLil Kim
+p24
+sg5
+S'411'
+p25
+sa(dp26
+g3
+VFoxy Brown
+p27
+sg5
+S'204'
+p28
+sa(dp29
+g3
+VMC Lyte
+p30
+sg5
+S'2048'
+p31
+sa(dp32
+g3
+VRoxanne Shanté
+p33
+sg5
+S'130461'
+p34
+sassS'artist_id'
+p35
+I2703
+sg5
+I48453
+s.

@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'808s & Heartbreak'
+p4
+sS'id'
+p5
+I4339
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'RG France Translations'
+p9
+sS'title'
+p10
+S'Kanye West - Amazing ft. Jeezy (French Version)'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I140856
+sg5
+I361214
+s.

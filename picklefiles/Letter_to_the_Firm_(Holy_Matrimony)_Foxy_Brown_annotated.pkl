@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Ill Na Na'
+p4
+sS'id'
+p5
+I3152
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Foxy Brown'
+p9
+sS'title'
+p10
+S'Letter to the Firm (Holy Matrimony)'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I28925
+sg8
+VTrackmasters
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I204
+sg5
+I20179
+s.

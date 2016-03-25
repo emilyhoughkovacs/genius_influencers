@@ -1,0 +1,63 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Ooooooohhh... On the TLC Tip'
+p4
+sS'id'
+p5
+I9991
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VOoooooohhh... On the TLC Tip
+p10
+sg5
+S'9991'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VTLC
+p15
+sg5
+S'964'
+p16
+sa(dp17
+g3
+VDallas Austin
+p18
+sg5
+S'39842'
+p19
+sa(dp20
+g3
+VLisa 'Left Eye' Lopes
+p21
+sg5
+S'7393'
+p22
+sassg12
+S'TLC'
+p23
+sS'title'
+p24
+S"Ain't 2 Proud 2 Beg"
+p25
+sS'references'
+p26
+(dp27
+sS'artist_id'
+p28
+I964
+sg5
+I45634
+s.

@@ -1,0 +1,40 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'MORTEN'
+p4
+sS'title'
+p5
+S'Beautiful Heartbeat'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I335153
+sg3
+VFrida Sundemo
+p11
+sasS'producers'
+p12
+(lp13
+(dp14
+g10
+I403489
+sg3
+VMorten Breum
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I522338
+sg10
+I2426112
+s.

@@ -1,0 +1,49 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Rasheeda'
+p4
+sS'title'
+p5
+S'Bedrock Remix'
+p6
+sS'featured_artists'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I59881
+sg3
+VToya Wright
+p11
+sa(dp12
+g10
+I15524
+sg3
+VLola Monroe
+p13
+sa(dp14
+g10
+I10512
+sg3
+VKandi Burruss
+p15
+sa(dp16
+g10
+I457
+sg3
+VDiamond D
+p17
+sasS'references'
+p18
+(dp19
+sS'artist_id'
+p20
+I6130
+sg10
+I186250
+s.

@@ -1,0 +1,110 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Wildfire '
+p4
+sS'id'
+p5
+I139118
+ssS'description_refs'
+p6
+(dp7
+S'song_unannotated'
+p8
+(lp9
+(dp10
+g5
+S'591746'
+p11
+sasS'artist'
+p12
+(lp13
+(dp14
+g3
+VRachel Platten
+p15
+sg5
+S'271204'
+p16
+sa(dp17
+g3
+VJack Antonoff
+p18
+sg5
+S'264329'
+p19
+sa(dp20
+g3
+VFun.
+p21
+sg5
+S'16671'
+p22
+sa(dp23
+g3
+VBleachers
+p24
+sg5
+S'158659'
+p25
+sa(dp26
+g3
+VJoy Williams
+p27
+sg5
+S'124368'
+p28
+sa(dp29
+g3
+VThe Civil Wars
+p30
+sg5
+S'16026'
+p31
+sa(dp32
+g3
+VMatt Morris
+p33
+sg5
+S'17930'
+p34
+sassg12
+S'Rachel Platten'
+p35
+sS'title'
+p36
+S'Stand By You'
+p37
+sS'writers'
+p38
+(lp39
+(dp40
+g5
+I17930
+sg12
+VMatt Morris
+p41
+sa(dp42
+g5
+I124368
+sg12
+VJoy Williams
+p43
+sa(dp44
+g5
+I264329
+sg12
+VJack Antonoff
+p45
+sasS'references'
+p46
+(dp47
+sS'artist_id'
+p48
+I271204
+sg5
+I2297738
+s.

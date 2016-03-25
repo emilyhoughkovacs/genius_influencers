@@ -1,0 +1,47 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Graduation'
+p4
+sS'id'
+p5
+I4345
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Kanye West'
+p9
+sS'title'
+p10
+S"Can't Tell Me Nothing"
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I27605
+sg8
+VDJ Toomp
+p15
+sasS'references'
+p16
+(dp17
+S'song_unannotated'
+p18
+(lp19
+(dp20
+g5
+S'681'
+p21
+sassS'artist_id'
+p22
+I72
+sg5
+I848
+s.

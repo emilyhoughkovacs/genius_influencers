@@ -1,0 +1,100 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Jamo Neat'
+p4
+sS'id'
+p5
+I127792
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Chris Webby'
+p9
+sS'title'
+p10
+S'Jekyll and Hyde'
+p11
+sS'featured_artists'
+p12
+(lp13
+(dp14
+g5
+I528864
+sg8
+VStacey Michelle
+p15
+sasS'producers'
+p16
+(lp17
+(dp18
+g5
+I27653
+sg8
+VSap
+p19
+sasS'references'
+p20
+(dp21
+g8
+(lp22
+(dp23
+g3
+VImmortal Technique
+p24
+sg5
+S'238'
+p25
+sa(dp26
+g3
+VJedi Mind Tricks
+p27
+sg5
+S'512'
+p28
+sa(dp29
+g3
+VEminem
+p30
+sg5
+S'45'
+p31
+sa(dp32
+g3
+VXzibit
+p33
+sg5
+S'291'
+p34
+sa(dp35
+g3
+VSnoop Dogg
+p36
+sg5
+S'46'
+p37
+sa(dp38
+g3
+VDr. Dre
+p39
+sg5
+S'123'
+p40
+sa(dp41
+g3
+VMistah F.A.B.
+p42
+sg5
+S'3390'
+p43
+sassS'artist_id'
+p44
+I432
+sg5
+I2254750
+s.

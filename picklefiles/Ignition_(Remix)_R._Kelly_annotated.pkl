@@ -1,0 +1,51 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S"Love Don't Cost a Thing Soundtrack"
+p4
+sS'id'
+p5
+I574
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'R. Kelly'
+p9
+sS'title'
+p10
+S'Ignition (Remix)'
+p11
+sS'references'
+p12
+(dp13
+S'song_unannotated'
+p14
+(lp15
+(dp16
+g5
+S'87408'
+p17
+sa(dp18
+g5
+S'111615'
+p19
+sasg8
+(lp20
+(dp21
+g3
+VRobert Johnson
+p22
+sg5
+S'35851'
+p23
+sassS'artist_id'
+p24
+I535
+sg5
+I3239
+s.

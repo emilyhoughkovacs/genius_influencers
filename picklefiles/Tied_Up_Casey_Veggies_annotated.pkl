@@ -1,0 +1,93 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Live & Grow'
+p4
+sS'id'
+p5
+I118989
+ssS'description_refs'
+p6
+(dp7
+g1
+(lp8
+(dp9
+g3
+VLive & Grow
+p10
+sg5
+S'118989'
+p11
+sassS'artist'
+p12
+S'Casey Veggies'
+p13
+sS'title'
+p14
+S'Tied Up'
+p15
+sS'featured_artists'
+p16
+(lp17
+(dp18
+g5
+I222357
+sg12
+VDeJ Loaf
+p19
+sasS'producers'
+p20
+(lp21
+(dp22
+g5
+I215515
+sg12
+VLuca Polizzi
+p23
+sa(dp24
+g5
+I27640
+sg12
+VKane Beatz
+p25
+sasS'references'
+p26
+(dp27
+S'song_unannotated'
+p28
+(lp29
+(dp30
+g5
+S'1742877'
+p31
+sasg12
+(lp32
+(dp33
+g3
+VDeJ Loaf
+p34
+sg5
+S'222357'
+p35
+sasS'song'
+p36
+(lp37
+(dp38
+g12
+VDeJ Loaf
+p39
+sg5
+S'2163216'
+p40
+sg14
+VBack Up
+p41
+sassS'artist_id'
+p42
+I2011
+sg5
+I1742877
+s.

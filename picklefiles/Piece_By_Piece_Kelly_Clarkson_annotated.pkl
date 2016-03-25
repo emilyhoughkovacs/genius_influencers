@@ -1,0 +1,49 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Piece By Piece'
+p4
+sS'id'
+p5
+I118882
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Kelly Clarkson'
+p9
+sS'title'
+p10
+S'Piece By Piece'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I55444
+sg8
+VGreg Kurstin
+p15
+sasS'writers'
+p16
+(lp17
+(dp18
+g5
+I55444
+sg8
+VGreg Kurstin
+p19
+sasS'references'
+p20
+(dp21
+sS'artist_id'
+p22
+I11714
+sg5
+I693900
+s.

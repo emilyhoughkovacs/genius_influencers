@@ -1,0 +1,69 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'I Promise I Will Never Stop Going In (Deluxe Edition)'
+p4
+sS'id'
+p5
+I60319
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Rich Homie Quan'
+p9
+sS'title'
+p10
+S'Real'
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I33010
+sg8
+VMetro Boomin
+p15
+sa(dp16
+g5
+I27511
+sg8
+VDJ Spinz
+p17
+sasS'references'
+p18
+(dp19
+g8
+(lp20
+(dp21
+g3
+VMetro Boomin
+p22
+sg5
+S'33010'
+p23
+sa(dp24
+g3
+VYoung Thug
+p25
+sg5
+S'20503'
+p26
+sa(dp27
+g3
+VCee-Lo Green
+p28
+sg5
+S'4413'
+p29
+sassS'artist_id'
+p30
+I24823
+sg5
+I446605
+s.

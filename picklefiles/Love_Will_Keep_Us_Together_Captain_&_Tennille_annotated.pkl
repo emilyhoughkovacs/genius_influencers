@@ -1,0 +1,71 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Love Will Keep Us Together'
+p4
+sS'id'
+p5
+I116375
+ssS'description_refs'
+p6
+(dp7
+S'artist'
+p8
+(lp9
+(dp10
+g3
+VCaptain & Tennille
+p11
+sg5
+S'285815'
+p12
+sa(dp13
+g3
+VNeil Sedaka
+p14
+sg5
+S'70057'
+p15
+sassg8
+S'Captain & Tennille'
+p16
+sS'title'
+p17
+S'Love Will Keep Us Together'
+p18
+sS'producers'
+p19
+(lp20
+(dp21
+g5
+I411858
+sg8
+VDaryl Dragon
+p22
+sasS'writers'
+p23
+(lp24
+(dp25
+g5
+I70057
+sg8
+VNeil Sedaka
+p26
+sa(dp27
+g5
+I411859
+sg8
+VHoward Greenfield
+p28
+sasS'references'
+p29
+(dp30
+sS'artist_id'
+p31
+I285815
+sg5
+I622989
+s.

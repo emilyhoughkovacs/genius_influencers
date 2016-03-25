@@ -1,0 +1,50 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Bootleg of the Bootleg EP'
+p4
+sS'id'
+p5
+I4011
+ssS'description_refs'
+p6
+(dp7
+S'other'
+p8
+(lp9
+(dp10
+g5
+S'153'
+p11
+sS'title'
+p12
+VMy Block
+p13
+sassS'artist'
+p14
+S'Jean Grae'
+p15
+sg12
+S"Keep Livin'"
+p16
+sS'producers'
+p17
+(lp18
+(dp19
+g5
+I65357
+sg14
+VKamal Gray
+p20
+sasS'references'
+p21
+(dp22
+sS'artist_id'
+p23
+I221
+sg5
+I51388
+s.

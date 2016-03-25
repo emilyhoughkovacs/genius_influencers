@@ -1,0 +1,31 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'55'
+p4
+sS'id'
+p5
+I144358
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'The Knocks'
+p9
+sS'title'
+p10
+S'Dancing With Myself'
+p11
+sS'references'
+p12
+(dp13
+sS'artist_id'
+p14
+I84077
+sg5
+I725500
+s.

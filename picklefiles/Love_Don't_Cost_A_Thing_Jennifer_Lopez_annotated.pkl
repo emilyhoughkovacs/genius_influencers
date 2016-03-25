@@ -1,0 +1,40 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'J. Lo'
+p4
+sS'id'
+p5
+I6283
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Jennifer Lopez'
+p9
+sS'title'
+p10
+S"Love Don't Cost A Thing"
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I100393
+sg8
+VRick Wake
+p15
+sasS'references'
+p16
+(dp17
+sS'artist_id'
+p18
+I2487
+sg5
+I279437
+s.

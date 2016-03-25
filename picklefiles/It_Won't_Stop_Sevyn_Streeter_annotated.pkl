@@ -1,0 +1,53 @@
+(dp0
+S'album'
+p1
+(dp2
+S'name'
+p3
+S'Call Me Crazy But...'
+p4
+sS'id'
+p5
+I57011
+ssS'description_refs'
+p6
+(dp7
+sS'artist'
+p8
+S'Sevyn Streeter'
+p9
+sS'title'
+p10
+S"It Won't Stop"
+p11
+sS'producers'
+p12
+(lp13
+(dp14
+g5
+I27810
+sg8
+VFree School
+p15
+sa(dp16
+g5
+I12908
+sg8
+VDiplo
+p17
+sasS'references'
+p18
+(dp19
+S'song_unannotated'
+p20
+(lp21
+(dp22
+g5
+S'4671'
+p23
+sassS'artist_id'
+p24
+I37463
+sg5
+I156373
+s.

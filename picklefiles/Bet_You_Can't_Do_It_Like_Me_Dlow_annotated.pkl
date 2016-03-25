@@ -1,0 +1,54 @@
+(dp0
+S'description_refs'
+p1
+(dp2
+sS'artist'
+p3
+S'Dlow'
+p4
+sS'title'
+p5
+S"Bet You Can't Do It Like Me"
+p6
+sS'producers'
+p7
+(lp8
+(dp9
+S'id'
+p10
+I51137
+sg3
+VNun Major Beats
+p11
+sasS'references'
+p12
+(dp13
+g3
+(lp14
+(dp15
+S'name'
+p16
+V2 Milly
+p17
+sg10
+S'557249'
+p18
+sasS'song'
+p19
+(lp20
+(dp21
+g3
+V2 Milly
+p22
+sg10
+S'2292829'
+p23
+sg5
+VMilly Rock
+p24
+sassS'artist_id'
+p25
+I25503
+sg10
+I2373349
+s.
