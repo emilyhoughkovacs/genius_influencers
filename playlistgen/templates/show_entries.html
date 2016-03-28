@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+{% block body %}
+    <form action="{{ url_for('add_entry') }}" method=post class=add-entry>
+
+    <div class="form-group">
+      <input type="text" class="form-control" placeholder="Title"></div>
+    <div class="form-group">
+      <textarea class="form-control" rows="5" placeholder="Say something..."></textarea>
+    </div>
+      <button type="submit" class="btn btn-default">Share Your Thoughts</button>
+    </form>
+    <!--
+      <dl>
+        <dt>Title:
+        <dd><input type=text size=30 name=title>
+        <dt>Text:
+        <dd><textarea name=text rows=5 cols=40></textarea>
+        <dd><input type=submit value=Share>
+      </dl>
+    </form>-->
+  <ul class=entries>
+  <li><em>Unbelievable.  No entries here so far</em>
+{% endblock %}
