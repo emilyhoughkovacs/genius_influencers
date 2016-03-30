@@ -11,7 +11,10 @@
 </head>
 <body>
   <div class=page>
-    <h1>Playlistr</h1>
+  {% if not playlist %}
+    <h1>Playlistr: A Genius Playlist Generator</h1>
+
+    <br>
 
     <form method=post>
       <div class="form-group">
@@ -21,6 +24,17 @@
       </div>
       <button type="submit" class="btn btn-success">Search</button>
     </form>
+  {% else %}
+    <center><h1>Your Playlist for <br>{{playlist[0][2:]}}</h1></center>
+
+    <br>
+
+    <ol class="list-group">
+    {% for song in playlist %}
+      <li class="list-group-item">{{ song }}
+    {% endfor %}
+    </ol>
+  {% endif %}
 
     <!-- JQuery CDN -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>

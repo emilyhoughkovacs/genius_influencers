@@ -69,7 +69,7 @@ def make_playlist(songid):
     formatted = format_playlist(playlist)
     print str(formatted)
 
-    return render_template('show_song.html', playlist=formatted)
+    return render_template('layout.html', playlist=formatted)
 
 @app.route('/song/<songid>')
 def song_profile(songid):
