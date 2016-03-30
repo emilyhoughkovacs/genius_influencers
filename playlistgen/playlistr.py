@@ -7,6 +7,7 @@ from flask.ext.pymongo import PyMongo
 
 
 app = Flask(__name__)
+app.config['MONGO_HOST'] = '54.208.89.163'
 app.config['MONGO_DBNAME'] = 'music'
 mongo = PyMongo(app)
 
